@@ -1,6 +1,6 @@
 <head>
     <meta charset="UTF-8" />
-    <title>MBCRAFT di Marco Bagnaresi - <?=$title_suffix ?></title>
+    <title>Philosophy-ideas.net - <?=$title_suffix ?></title>
     <meta name='description' content="<?=$description ?>">
     <meta name='keywords' content="<?=$keywords ?>">  
     <link rel="stylesheet" href="/css/w3.css">    

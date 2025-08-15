@@ -13,7 +13,6 @@ ob_start();
     <h2>Piccoli spunti</h2>
     <ul>
         <li>Il gioco dei pacchi - regolamento - Versione 1.0 (<a href="/downloads/il_gioco_dei_pacchi.pdf">VISUALIZZA</a> - <a href="/downloads/il_gioco_dei_pacchi.pdf" download="">DOWNLOAD  [HTML]</a>)</li>
-        <!--<li>Only Fans Image Pack (90 mb) (scherzo) (<a href="/download/only_fans_image_pack.zip" download>DOWNLOAD  [HTML]</a>)</li>-->
         <li>Ricetta per un ottimo thè - (<a href="/downloads/ricetta_the.html">VISUALIZZA</a> - <a download href="/downloads/ricetta_the.html">DOWNLOAD  [HTML]</a>)</li>
         <li>Riflessioni sulla produzione di imballaggi - versione 1.4 -
         (<a href="/downloads/riflessioni_produzione_imballaggi.html">VISUALIZZA</a>
