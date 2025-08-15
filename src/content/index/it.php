@@ -12,7 +12,7 @@ require_once ("include/site_variables.php");
 ?>
 <div align='center' style="padding-top: 30px;">
     <div style="padding:30px;">Benvenuto nel sito internet di</div>
-    <img width="300" src='/images/logo/logo_mbcraft_final_black.png' alt='Logo MBCRAFT' />
+    <img width="300" src='/images/logo/logo_philosophy_temp_transparent.png' alt='Logo sito internet' />
     <br />
 
     <br />
@@ -40,7 +40,7 @@ require_once ("include/site_variables.php");
 </div>
     <br />
     <div align="center">
-    <h4>Ultimo aggiornamento : 10 Agosto 2025</h4>
+    <h4>Ultimo aggiornamento : 15 Agosto 2025</h4>
     </div>
     <br />
     <br />

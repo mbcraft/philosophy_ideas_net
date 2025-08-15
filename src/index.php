@@ -26,12 +26,6 @@ include_once("include/meta.php");
     <div class="w3-row">
     <?=$content ?>
     </div>
-    <div class="w3-row w3-display-container">
-        <div class="w3-container w3-display-middle">
-        P.IVA/VAT N. : 02475790396<br />
-        C.F. : BGNMRC82H03E730O
-        </div>
-    </div>
 
 <?php
 include_once("include/end_html.php");
