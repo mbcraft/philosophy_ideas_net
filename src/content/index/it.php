@@ -1,9 +1,9 @@
 <?php
 
-$title_suffix = "Benvenuto in MBCRAFT";
+$title_suffix = "Benvenuto in philosophy-ideas.net";
 
-$description = "MBCRAFT è un'azienda unipersonale che lavora nella ricerca e sviluppo di software.";
-$keywords = "mbcraft, azienda";
+$description = "Questo sito internet contiene elementi di filosofia frutto di ricerca, meme e documenti su soluzioni innovative.";
+$keywords = "ricerca, filosofia, meme, documenti";
 
 ob_start();
 

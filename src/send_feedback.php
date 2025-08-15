@@ -2,7 +2,7 @@
 
 require_once('include/captcha_functions.php');
 
-$c = generate_numeric_captcha_elements('MBCRAFT');
+$c = generate_numeric_captcha_elements('PHILOSOPHY-IDEAS');
 
 $captcha_html = $c['captcha_html'];
 $hidden_control_code_check = $c['hidden_control_code_check'];

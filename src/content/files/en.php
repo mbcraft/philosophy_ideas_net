@@ -2,8 +2,8 @@
 
 $title_suffix = "File";
 
-$description = "Files available from MBCRAFT.";
-$keywords = "files, download, MBCRAFT";
+$description = "Files and documents available.";
+$keywords = "files, documents, view, download";
 
 ob_start();
 ?>

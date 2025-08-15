@@ -3,7 +3,7 @@
 $title_suffix = "Fun";
 
 $description = "Some meme i made";
-$keywords = "mbcraft, fun";
+$keywords = "meme, fun";
 
 ob_start();
 ?>

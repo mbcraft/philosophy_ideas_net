@@ -2,7 +2,7 @@
 
 require_once('include/captcha_functions.php');
 
-$captcha_is_valid = validate_numeric_captcha('MBCRAFT');
+$captcha_is_valid = validate_numeric_captcha('PHILOSOPHY-IDEAS');
 
 if ($captcha_is_valid) {
 
@@ -22,7 +22,7 @@ if ($captcha_is_valid) {
 	$mail_text .= "Riferimento/reference : ".$reference."\n\n\n";
 	$mail_text .= "Descrizione/Description : ".$description."\n\n\n";
 
-	mail('info@mbcraft.it', "Feedback. Origine : ".$_SERVER['SERVER_NAME'], $mail_text); 
+	mail('marco.bagnaresi@gmail.com', "Feedback. Origine : ".$_SERVER['SERVER_NAME'], $mail_text); 
 }
 
 require_once('include/lang.php');
