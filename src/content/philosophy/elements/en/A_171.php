@@ -1,0 +1,1 @@
+A_171 - Nature is available to grant its gifts, as long as you pay for them with the right work.

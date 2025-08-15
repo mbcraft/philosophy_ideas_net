@@ -1,0 +1,1 @@
+A_453 - Emails may contain a signature in html format at the bottom. It may be useful to prepare a signature for your emails in order to save time in sending some fundamental information in the communications we send. 

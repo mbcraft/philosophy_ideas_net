@@ -1,0 +1,1 @@
+A_019 - The oil from cans (for example from sautéed mushrooms) or even the vinegar from caper jars can be easily reused to dress the salad. It is not obligatory to consider them as &ldquo;waste&rdquo;.

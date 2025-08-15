@@ -1,0 +1,1 @@
+A_257 - There is no need to hide problems, you can also show them to other people to get help from friends and acquaintances.

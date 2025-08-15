@@ -1,0 +1,1 @@
+A_264 - Nature also has its &ldquo;balance sheet&rdquo; and if it is not in good enough health or is not satisfied with our work, we are the ones who pay the consequences. What has been granted to us thanks to effort (at every level) is lost and disintegrates if we are excessively foolish.

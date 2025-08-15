@@ -1,0 +1,1 @@
+A_525 - Le donne in stato di gravidanza vanno trattate con molta attenzione e rispetto, in quanto capita che a volte si sentano a disagio psicologicamente, emotivamente o fisicamente. 

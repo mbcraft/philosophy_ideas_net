@@ -1,0 +1,1 @@
+A_514 - Don't make deserving people suffer from hunger, because it is very serious.

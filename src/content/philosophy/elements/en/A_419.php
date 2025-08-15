@@ -1,0 +1,1 @@
+A_419 - CT machines in hospitals can also be used with potted plants.

@@ -1,0 +1,1 @@
+A_407 - &ldquo;Blessed are the obese, because gaming is their kingdom...&rdquo;

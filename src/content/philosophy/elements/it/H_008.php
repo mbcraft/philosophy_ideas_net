@@ -1,0 +1,1 @@
+H_009 - Di solito quando prendiamo delle sleppe o ci facciamo male accidentalmente &egrave; perch&eacute; c'&egrave; qualcosa di sbagliato nella nostra filosofia. Capita a tutti, me compreso.

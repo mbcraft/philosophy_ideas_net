@@ -1,0 +1,1 @@
+A_003 - Be kind to plants, animals and people. (in that order) <br />

@@ -1,0 +1,1 @@
+A_146 - &Egrave; meglio non fuggire dai problemi, non serve a niente spazzare la polvere sotto il tappeto. Non &egrave; detto comunque che riflettere un po' e prepararsi psicologicamente o fisicamente prima di affrontarli non sia una buona idea. &Egrave; comunque anche sbagliato ignorare continuamente problemi che potremo contribuire a risolvere.
