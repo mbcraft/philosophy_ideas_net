@@ -24,7 +24,9 @@ $available_documents = array(
 		"concept_ponte_galleggiante",
 		"concept_strumento_pettinamento_alberi_innevati",
 		"centro_gestione_stoccaggio_legnami",
-		"idea_sistema_gestione_processi_giudiziari"
+		"idea_sistema_gestione_processi_giudiziari",
+		"analisi_sistemi_trasporto",
+		"sulle_atrocita_attuali_connessioni_filosofiche"
 		),
 	"en" => array(
 		"cerimonies",
@@ -49,6 +51,7 @@ $available_documents = array(
 		"concept_floating_bridge",
 		"concept_tool_for_combing_snow_covered_trees",
 		"wood_storage_management_center",
-		"idea_judicial_processes_management_system"
+		"idea_judicial_processes_management_system",
+		"transport_systems_analysis"
 		)
 	);

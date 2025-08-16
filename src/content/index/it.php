@@ -40,7 +40,7 @@ require_once ("include/site_variables.php");
 </div>
     <br />
     <div align="center">
-    <h4>Ultimo aggiornamento : 15 Agosto 2025</h4>
+    <h4>Ultimo aggiornamento : 16 Agosto 2025</h4>
     </div>
     <br />
     <br />
