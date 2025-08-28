@@ -1,0 +1,1 @@
+A_644 - &Egrave; importante non legare fili metallici agli alberi in quanto crescendo non potendo romperli essi vengono in realt&agrave; assorbiti dalla corteccia e purtroppo a quel punto non si riescono pi&ugrave; a togliere.

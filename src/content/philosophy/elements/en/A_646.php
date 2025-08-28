@@ -1,0 +1,1 @@
+A_646 - It's important to recycle and melt metals to avoid further laborious mining. Metal can be recycled, and it's important to do so, as are other materials such as plastic, wood, paper, glass, and so on.

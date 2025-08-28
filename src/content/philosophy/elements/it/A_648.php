@@ -1,0 +1,1 @@
+A_648 - &Egrave; anche per quanto riguarda l'igiente personale utilizzare saponi e detergenti che siano 100% vegetali, in quanto in realt&agrave; in certi casi in certe ricette per saponi o altri detergenti sono presenti ingredienti di origine animale.

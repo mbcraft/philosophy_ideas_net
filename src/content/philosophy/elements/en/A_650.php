@@ -1,0 +1,1 @@
+A_650 - Our brain can only think one thought at a time, and in some cases the only way to continue with certain tasks is to take notes so as not to lose what we've thought. We only remember a very few thoughts we've had throughout our lives.

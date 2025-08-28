@@ -1,0 +1,1 @@
+A_650 - Il nostro cervello riesce a fare un solo pensiero alla volta, e in certi casi l'unico modo per proseguire in certi lavori &egrave; quello di farsi degli appunti per non perdere quello che si era pensato. Abbiamo il ricordo solo di pochissimi pensieri che abbiamo avuto nel corso della nostra vita.

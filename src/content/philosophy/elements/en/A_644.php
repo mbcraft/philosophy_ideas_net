@@ -1,0 +1,1 @@
+A_644 - It is important not to tie metal wires to trees because as they grow, they cannot be broken and are actually absorbed by the bark, and unfortunately at that point they can no longer be removed.

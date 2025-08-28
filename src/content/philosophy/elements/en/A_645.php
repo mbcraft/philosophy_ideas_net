@@ -1,0 +1,1 @@
+A_645 - Love cannot be made without spirit, and if one tries, one only gets frustration. How spirit is obtained has been indicated in element A_034.

@@ -1,0 +1,1 @@
+A_649 - &Egrave; importante capire che certe relazioni di coppia non si instaurano se non &egrave; possibile raggiungere un equilibrio valido che riesca a conciliare sia il lavoro che la vita privata oltre che le altre relazioni interpersonali.
