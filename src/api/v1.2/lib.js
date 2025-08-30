@@ -50,9 +50,9 @@ window.addEventListener("load",function(e) {
 		var element_id = element.id;
 
 		var language = element.classList.contains("it") ? "it" : "en";
-		var server = element.classList.contains("mirror") ? "mbcraftlab" : "mbcraft";
+		var server = "philosophy-ideas.net";
 
-		var address = "https://www."+server+".it/api/v1.2/get_philosophy_content_html.php?language="+language+"&element_id="+element_id+"&embed=true";
+		var address = "https://www."+server+"/api/v1.2/get_philosophy_content_html.php?language="+language+"&element_id="+element_id+"&embed=true";
 
 		loadPhilosophy(address,element);
 
