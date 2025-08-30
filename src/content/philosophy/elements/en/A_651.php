@@ -1,0 +1,1 @@
+A_651 - Certain popular festivals where people throw tomatoes, oranges, or other foods at each other are counterproductive. It's wrong to waste food, considering that there are also hungry people in the world and that plants and trees have worked hard to produce it. If you like, you can throw tennis balls at each other or play other group games outdoors.
