@@ -8,7 +8,7 @@ $keywords = "filosofia, consigli, amicizia";
 ob_start();
 ?>
 <div align="center">
-	Per visualizzare un elemento, inserire nella barra di ricerca la chiave corrispondente. Il carattere di sottolineatura e gli zero iniziali sono opzionali. <a href="/philosophy.php?mode=one_element&with_back_to_results=false&element_key=H_001">Leggi gli elementi 'H'</a> prima di consultare gli altri.
+	Per visualizzare un elemento, inserire nella barra di ricerca la chiave corrispondente. Il carattere di sottolineatura e gli zero iniziali sono opzionali. <a href="/philosophy.php?mode=one_element&with_back_to_results=false&element_key=H_001&lang=<?=$lang ?>">Leggi gli elementi 'H'</a> prima di consultare gli altri.
 	Attualmente sono disponibili i seguenti range di elementi :
 	<?php
 	print_available_ranges($all_ranges);
@@ -20,6 +20,7 @@ ob_start();
 	<form name="search_element" action="/philosophy.php" method="GET">
 		<input type="hidden" name="mode" value="one_element" />
 		<input type="hidden" name="with_back_to_results" value="false" />
+		<input type="hidden" name="lang" value="<?=$lang ?>" />
 		<input type="text" name="element_key" minlength="1" maxlength="5">
 		<button type="submit">Visualizza</button>
 	</form>
@@ -33,7 +34,8 @@ ob_start();
 		<button type="submit">Cerca</button>
 	</form>
 	<br />
-	Se invece vuoi vedere l'elenco completo, usa questo pulsante :
+	<a href="/philosophy.php?mode=full_links_list&lang=<?=$lang ?>">Qui</a> puoi trovare i link a tutti gli elementi.<br />
+	Se invece vuoi vedere l'elenco completo integrale, usa questo pulsante :
 	<form name="full_list" action="/philosophy.php" method="GET" style="padding:10px;">
 		<input type="hidden" name="mode" value="full_list" />
 		<button type="submit">Elenco completo</button>
@@ -48,6 +50,7 @@ ob_start();
 		</ul>
 		<br />
 		Se ci sono degli errori, delle imprecisioni o delle domande in merito a qualche contenuto, puoi usare la form di feedback dal link nel footer della pagina.
+		
 	</div>
 </div>
 <?php

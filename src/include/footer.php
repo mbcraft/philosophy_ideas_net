@@ -4,13 +4,13 @@ $footer = array("it" =>
     array(
     "Grazie a <a href='http://openclipart.org'>openclipart.org</a> e <a href='http://texturelib.com'>texturelib.com</a> per le loro immagini.",
     "Immagini usate su licenza di shutterstock.com e poliigon.com.",
-    "Tutti i contenuti sono originali, scritti e sviluppati da Marco Bagnaresi.",
+    "Tutti i contenuti sono originali, scritti e sviluppati da Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</>.",
     "Traduzioni in Inglese con Google Translate."
     ),
     "en" => array(
     "Thanks to <a href='http://openclipart.org'>openclipart.org</a>, <a href='http://texturelib.com'>texturelib.com</a> for their images.",
     "Images used under license of shutterstock.com and poliigon.com.",
-    "All content originally written and developed in Italian by Marco Bagnaresi.",
+    "All content originally written and developed in Italian by Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</>.",
     "Translations to English by Google Translate.")
     );
 

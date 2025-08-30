@@ -86,7 +86,7 @@ ob_start();
         - <a href=
         "/downloads/concept_banco_riciclaggio_elettrodomestici.html"
         download="">DOWNLOAD</a>) - Versione 1</li>
-        <li>Concept per la realizzazione di un ponte galleggiante (<a href=
+        <li>Concept per la realizzazione di un ponte galleggiante - Versione 1.1(<a href=
         "/downloads/concept_ponte_galleggiante.html">VISUALIZZA</a> -
         <a href="/downloads/concept_ponte_galleggiante.html" download=
         "">DOWNLOAD</a>)</li>

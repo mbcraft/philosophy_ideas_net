@@ -138,3 +138,22 @@ function search_by_words($lang,$search_query) {
 
     return array("no_results" => $no_result,"result_set" => $current_result_list);
 }
+
+function generate_philosophy_links_list($all_ranges,$lang) {
+
+    foreach ($all_ranges as $range) {
+        $letter = $range[0];
+        $begin = $range[1];
+        $end = $range[2];
+
+        for ($i=$begin;$i<$end;$i++) {
+
+            $element = $letter.'_'.str_pad($i,3,'0',STR_PAD_LEFT);
+
+            echo "<a href='/philosophy.php?with_back_to_results=false&mode=one_element&lang=".$lang."&element_key=".$element."'>".$element."</a> -";
+        }
+
+        echo "<br /><br /><br />";
+    }
+
+}

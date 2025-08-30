@@ -62,7 +62,7 @@ include_once("include/top_poem.php");
                         echo "<ul>";
                         foreach ($current_result_list as $element) {
                             echo "<li>";
-                            echo "<a href='/philosophy.php?with_back_to_results=true&mode=one_element&element_key=".$element."'>".$element."</a>";
+                            echo "<a href='/philosophy.php?with_back_to_results=true&lang=".$lang."&mode=one_element&element_key=".$element."'>".$element."</a>";
                             echo "</li>";
                         }
                         echo "</li>";
@@ -77,6 +77,12 @@ include_once("include/top_poem.php");
                 if ($_GET["mode"]=="full_list") {
 
                     require_once("content/philosophy/elements/full_list.php");
+
+                }
+
+                if ($_GET["mode"]=="full_links_list") {
+
+                    require_once("content/philosophy/elements/full_links_list.php");
 
                 }
                 

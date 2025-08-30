@@ -1,1 +1,1 @@
-A_645 - L'amore non si pu&ograve; fare senza lo spirito, e se ci si prova si ricava solo frustrazione. Come si ricava lo spirito &egrave; stato indicato nell'elemento A_034.
+A_645 - L'amore non si pu&ograve; fare senza lo spirito, e se ci si prova si ricava solo frustrazione. Come si ricava lo spirito &egrave; stato indicato nell'elemento A_034. La gelosia nei rapporti di coppia ha origina dalla carenza di spirito.
