@@ -13,7 +13,7 @@ ob_start();
 	This website contains a list of philosophical elements researched and compiled over the course of about a year and a half of research. It also contains numerous memes and documents on various topics. I hope you find it to your liking. - The author (Marco B.)
 	<hr />
 	<h1>Last changes</h1>
-	31 August 2025 - Concept for a harvesting wagon for food forests, A_183
+	31 August 2025 - Concept for a harvesting wagon for food forests, A_183, A_652, A_653
 	<br /><br />
 	30 August 2025 - Concept for a floating bridge (Versione 1.1), A_645, A_651, fix at APIs.
 	<br /><br />

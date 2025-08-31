@@ -1,1 +1,1 @@
-A_183 - Ogni tanto potrebbe essere una buona idea per chi ha un pollaio lasciare qualche uovo nei boschi o nelle campagne per i serpenti in modo che anche loro abbiano di che nutrirsi. Sono animali anche loro e non andrebbero discriminati. La verit&agrave; comunque &egrave; che nemmeno i pollai dovrebbero esistere e i polli dovrebbero vivere liberi nelle campagne o nei boschi.
+A_183 - Ogni tanto potrebbe essere una buona idea per chi ha un pollaio lasciare qualche uovo nei boschi o nelle campagne per i serpenti in modo che anche loro abbiano di che nutrirsi. 
