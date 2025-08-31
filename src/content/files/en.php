@@ -47,6 +47,11 @@ ob_start();
         <li>Idea for an improved management of judicial processes - Version 1.2 (<a href="/downloads/idea_judicial_processes_management_system.html">VIEW</a> - <a href="/downloads/idea_judicial_processes_management_system.html" download>DOWNLOAD</a>)</li>
         <li>Idea for a shared deposit for agricoltural instruments and tools - Version 1.0 (<a href="/downloads/shared_deposit_for_instruments_and_tools.html">VIEW</a> - <a href="/downloads/shared_deposit_for_instruments_and_tools.html" download>DOWNLOAD</a>)</li>
         <li>Analysis of public transport systems and possible solutions to improve their use - Version 1.0 (<a href="/downloads/transport_systems_analysis.html">VIEW</a> - <a href="/downloads/transport_systems_analysis.html" download="">DOWNLOAD</a>)</li>
+        <li>Concept for a harvesting wagon for food forest fruits - Version 1.0(<a href=
+        "/downloads/concept_harvesting_wagon_food_forest.html">VIEW</a>
+        - <a href=
+        "/downloads/concept_harvesting_wagon_food_forest.html"
+        download="">DOWNLOAD</a>)</li>
     </ul>
         <hr />
     <ul>

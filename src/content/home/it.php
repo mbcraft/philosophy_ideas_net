@@ -13,6 +13,8 @@ ob_start();
 	Questo sito internet contiene un elenco di elementi filosofici ricercati e redatti nel corso di circa un anno e mezzo di ricerca, contiene numerosi meme e dei documenti su vari argomenti. Mi auguro che possiate trovare il tutto di vostro gradimento. - L'autore (Marco B.)
 	<hr />
 	<h1>Ultime modifiche</h1>
+	31 Agosto 2025 - Concept per un carro raccolta per food forest
+	<br /><br />
 	30 Agosto 2025 - Concept per un ponte galleggiante (Versione 1.1), A_645, A_651, fix alle API.
 	<br />
 	<br />
