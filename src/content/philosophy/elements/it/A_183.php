@@ -1,1 +1,1 @@
-A_183 - La magia esiste, da quanto ho capito si accumula nell'arco di decenni e ne si pu&ograve; usare un pizzico solo ogni tanti anni (si parla di decenni), a comando. Solitamente l'unica cosa che si pu&ograve; fare con quel pizzico &egrave; qualche tipo di cambiamento psicologico nelle persone che ci stanno intorno.
+A_183 - Ogni tanto potrebbe essere una buona idea per chi ha un pollaio lasciare qualche uovo nei boschi o nelle campagne per i serpenti in modo che anche loro abbiano di che nutrirsi. Sono animali anche loro e non andrebbero discriminati.

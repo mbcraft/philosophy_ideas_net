@@ -1,1 +1,1 @@
-A_183 - Magic exists, from what I understand it builds up over decades and you can only use a pinch of it every few years (decades), on command. Usually the only thing you can do with that pinch is some kind of psychological change in the people around you.
+A_183 - Every now and then, it might be a good idea for those who have a chicken coop to leave a few eggs in the woods or countryside for snakes so they too can have something to eat. They're animals too and shouldn't be discriminated against.

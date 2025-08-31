@@ -26,7 +26,8 @@ $available_documents = array(
 		"centro_gestione_stoccaggio_legnami",
 		"idea_sistema_gestione_processi_giudiziari",
 		"analisi_sistemi_trasporto",
-		"sulle_atrocita_attuali_connessioni_filosofiche"
+		"sulle_atrocita_attuali_connessioni_filosofiche",
+		"concept_carro_raccolta_frutta_food_forest"
 		),
 	"en" => array(
 		"cerimonies",
@@ -52,6 +53,7 @@ $available_documents = array(
 		"concept_tool_for_combing_snow_covered_trees",
 		"wood_storage_management_center",
 		"idea_judicial_processes_management_system",
-		"transport_systems_analysis"
+		"transport_systems_analysis",
+		"concept_harvesting_wagon_food_forest"
 		)
 	);
