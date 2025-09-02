@@ -1,6 +1,6 @@
 <?php
 $skip_to_content = array("it"=>"Vai al contenuto","en" => "Skip to content");
-$menu = array("it" => array("HOME","FILOSOFIA","DIVERTIMENTO","FILE"),"en" => array("WELCOME","PHILOSOPHY","FUN","FILES"));
+$menu = array("it" => array("HOME","FILOSOFIA","DIVERTIMENTO","DOCUMENTI"),"en" => array("WELCOME","PHILOSOPHY","FUN","DOCS"));
 ?>
 <h4>
     <a id="skip_to_main_content" href="#main_content"><?=$skip_to_content[$lang] ?></a>
@@ -17,7 +17,7 @@ $menu = array("it" => array("HOME","FILOSOFIA","DIVERTIMENTO","FILE"),"en" => ar
         <div role="menuitem" class="w3-cell w3-mobile w3-cell-middle menu_item green" onclick="document.location.href = '/fun.php'">
             <?=$menu[$lang][2] ?>
         </div>
-        <div role="menuitem" class="w3-cell w3-mobile w3-cell-middle menu_item brown" onclick="document.location.href = '/files.php'">
+        <div role="menuitem" class="w3-cell w3-mobile w3-cell-middle menu_item brown" onclick="document.location.href = '/docs.php'">
             <?=$menu[$lang][3] ?>
         </div>
     </div>
