@@ -4,12 +4,14 @@ $footer = array("it" =>
     array(
     "Grazie a <a href='http://openclipart.org'>openclipart.org</a> e <a href='http://texturelib.com'>texturelib.com</a> per le loro immagini.",
     "Immagini usate su licenza di shutterstock.com e poliigon.com.",
+    "<a href='https://www.vecteezy.com/free-png/logo-telegram'>Logo Telegram PNGs by Vecteezy</a>",
     "Tutti i contenuti sono originali, scritti e sviluppati da Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</>.",
     "Traduzioni in Inglese con Google Translate."
     ),
     "en" => array(
     "Thanks to <a href='http://openclipart.org'>openclipart.org</a>, <a href='http://texturelib.com'>texturelib.com</a> for their images.",
     "Images used under license of shutterstock.com and poliigon.com.",
+    "<a href='https://www.vecteezy.com/free-png/logo-telegram'>Logo Telegram PNGs da Vecteezy</a>",
     "All content originally written and developed in Italian by Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</>.",
     "Translations to English by Google Translate.")
     );
@@ -29,8 +31,22 @@ function print_footer($elements) {
     <div class="footer">
         <div style="padding-top:32px;padding-bottom:32px;">
             <div style="display: inline-block;">
+                <a href="https://www.facebook.com/marco.bagnaresi">
+                    <img src="/images/icons/facebook_icon2.png" alt="facebook icon" />
+                </a>
+            </div>
+            <div style="display: inline-block;width:16px;height:64px;">
+            </div>
+            <div style="display: inline-block;">
                 <a href="https://www.tiktok.com/@marco.bagnaresi">
                     <img src="/images/icons/tiktok_icon2.png" alt="tiktok icon" />
+                </a>
+            </div>
+            <div style="display: inline-block;width:16px;height:64px;">
+            </div>
+            <div style="display: inline-block;">
+                <a href="https://t.me/marcobagnaresi">
+                    <img src="/images/icons/telegram_icon.png" alt="telegram icon" />
                 </a>
             </div>
         </div> 
