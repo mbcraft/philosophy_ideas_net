@@ -17,9 +17,6 @@ $footer = array("it" =>
 $welcome_page = array("it" => "Pagina di benvenuto",
                 "en" => "Welcome page");
 
-$send_a_feedback = array("it" => "Link alla form per feedback",
-                            "en" => "Link to feedback form");
-
 function print_footer($elements) {
     foreach ($elements as $el) {
         echo "<div style='padding-top:10px;padding-bottom:10px;'>";
@@ -42,21 +39,6 @@ function print_footer($elements) {
         <br />
         <b><a href="/index.php"><?= $welcome_page[$lang] ?></a></b><br />
         <br /><br />
-        <?php
-        if (!defined('FEEDBACK_FORM_PAGE')) {
-        ?>
-        <div>
-        <b><a href="/send_feedback.php"><?= $send_a_feedback[$lang] ?> 
-
-        <div style="transform:scale(0.1,0.1);max-width:100px;max-height:100px;position:absolute;display:inline-block;top:85px;">
-        <?php
-        echo_generated_randomly_filled_feedback_form_logo();
-        ?>
-        </div></a></b>
-        </div>
-        <?php
-        }
-        ?>
         </h3>
         <h4>
         <?php

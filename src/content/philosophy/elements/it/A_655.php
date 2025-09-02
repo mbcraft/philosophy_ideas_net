@@ -1,0 +1,1 @@
+A_655 - Cavalcare un cavallo o usare un asino o un elefante per trasportare dei carichi significa in un certo senso sfruttare quegli animali. Il fatto che lo sfruttamento sia etico o meno dipende dal trattamento che si da all'animale e dalla quantit&agrave;. Il lavoro nobilita, non solo le persone ma anche gli animali.

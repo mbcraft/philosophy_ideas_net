@@ -1,0 +1,1 @@
+A_655 - Riding a horse or using a donkey or elephant to carry loads is, in a certain sense, exploiting those animals. Whether the exploitation is ethical or not depends on the treatment given to the animal and the quantity. Work ennobles not only people but also animals.
