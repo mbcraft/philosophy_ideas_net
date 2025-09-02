@@ -12,7 +12,7 @@ ob_start();
 	Questo sito internet contiene un elenco di elementi filosofici ricercati e redatti nel corso di circa un anno e mezzo di ricerca, contiene numerosi meme e dei documenti su vari argomenti. Mi auguro che possiate trovare il tutto di vostro gradimento. - L'autore (Marco B.)
 	<hr />
 	<h1>Ultime modifiche</h1>
-	02 Settembre 2025 - Rinominata sezione "files" in "documenti". Rimossa form di feedback.
+	02 Settembre 2025 - Rinominata sezione "files" in "documenti". Rimossa form di feedback. Aggiunta di A_656, A_657, A_658. Aggiornate riflessioni sul packaging.
 	<br /><br />
 	31 Agosto 2025 - Concept per un carro raccolta per food forest, A_183, A_652, A_653, A_654, A_655
 	<br /><br />

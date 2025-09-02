@@ -14,7 +14,7 @@ ob_start();
     <ul>
         <li>Il gioco dei pacchi - regolamento - Versione 1.0 (<a href="/downloads/il_gioco_dei_pacchi.pdf">VISUALIZZA</a> - <a href="/downloads/il_gioco_dei_pacchi.pdf" download="">DOWNLOAD  [HTML]</a>)</li>
         <li>Ricetta per un ottimo thè - (<a href="/downloads/ricetta_the.html">VISUALIZZA</a> - <a download href="/downloads/ricetta_the.html">DOWNLOAD  [HTML]</a>)</li>
-        <li>Riflessioni sulla produzione di imballaggi - versione 1.4 -
+        <li>Riflessioni sulla produzione di imballaggi - versione 1.5 -
         (<a href="/downloads/riflessioni_produzione_imballaggi.html">VISUALIZZA</a>
         - <a download href="/downloads/riflessioni_produzione_imballaggi.html">DOWNLOAD  [HTML]</a>)</li>
         <li>Esperienze e considerazioni sulle piante - (<a href="/downloads/esperienze_e_considerazioni_sulle_piante.html">VISUALIZZA</a>
