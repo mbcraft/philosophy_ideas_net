@@ -13,7 +13,7 @@ ob_start();
 	This website contains a list of philosophical elements researched and compiled over the course of about a year and a half of research. It also contains numerous memes and documents on various topics. I hope you find it to your liking. - The author (Marco B.)
 	<hr />
 	<h1>Last changes</h1>
-	02 September 2025 - Renamed "files" section to "docs". Removed feedback form.
+	02 September 2025 - Renamed "files" section to "documents". Fixed "home" section name. Removed feedback form.
 	<br /><br />
 	31 August 2025 - Concept for a harvesting wagon for food forests, A_183, A_652, A_653, A_654, A_655
 	<br /><br />
