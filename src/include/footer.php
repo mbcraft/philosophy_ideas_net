@@ -5,14 +5,14 @@ $footer = array("it" =>
     "Grazie a <a href='http://openclipart.org'>openclipart.org</a> e <a href='http://texturelib.com'>texturelib.com</a> per le loro immagini.",
     "Immagini usate su licenza di shutterstock.com e poliigon.com.",
     "<a href='https://www.vecteezy.com/free-png/logo-telegram'>Logo Telegram PNGs by Vecteezy</a>",
-    "Tutti i contenuti sono originali, scritti e sviluppati da Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</>.",
+    "Tutti i contenuti in lingua Italiana sono originali, scritti e sviluppati da Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</a>.",
     "Traduzioni in Inglese con Google Translate."
     ),
     "en" => array(
     "Thanks to <a href='http://openclipart.org'>openclipart.org</a>, <a href='http://texturelib.com'>texturelib.com</a> for their images.",
     "Images used under license of shutterstock.com and poliigon.com.",
     "<a href='https://www.vecteezy.com/free-png/logo-telegram'>Logo Telegram PNGs da Vecteezy</a>",
-    "All content originally written and developed in Italian by Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</>.",
+    "All content in Italian language originally written and developed by Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</a>.",
     "Translations to English by Google Translate.")
     );
 
