@@ -58,12 +58,6 @@ ob_start();
         download="">DOWNLOAD</a>)</li>
         <li>Concept per delle nuvole ombra artificiali (<a href="/downloads/nuvole_ombra_artificiali.html">VISUALIZZA</a> -
         <a href="/downloads/nuvole_ombra_artificiali.html" download>DOWNLOAD</a>)</li>
-        <li>Idea per un servizio di consegna del cibo a domicilio
-        standardizzato (<a href=
-        "/downloads/idea_gestione_consegna_cibo_domicilio_standardizzata.html">VISUALIZZA</a>
-        - <a href=
-        "/downloads/idea_gestione_consegna_cibo_domicilio_standardizzata.html"
-        download="">DOWNLOAD</a>)</li>
         <li>Concept per la realizzazione di un sistema per la pulizia delle
         fognatura da intasamenti di fango - Versione 1.1 (<a href=
         "/downloads/concept_sistema_robot_pulizia_fognature.html">VISUALIZZA</a>
