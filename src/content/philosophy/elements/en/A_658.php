@@ -1,1 +1,0 @@
-A_658 - It would be best not to take off all your clothes when you go to sleep if you don't sleep alone during the summer. In addition to this, it is always good to be clear about whether you intend to procreate or not, without acting haphazardly.
