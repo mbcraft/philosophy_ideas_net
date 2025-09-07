@@ -12,6 +12,8 @@ ob_start();
 	Questo sito internet contiene un elenco di elementi filosofici ricercati e redatti nel corso di circa un anno e mezzo di ricerca, contiene numerosi meme e dei documenti su vari argomenti. Mi auguro che possiate trovare il tutto di vostro gradimento. - L'autore (Marco B.)
 	<hr />
 	<h1>Ultime modifiche</h1>
+	07 Settembre 2025 - Altri aggiornamenti a A_654, C_011.
+	<br /><br />
 	04 Settembre 2025 - Aggiornamenti a A_654. Sistemazioni al footer delle pagine.
 	<br /><br />
 	02 Settembre 2025 - Rinominata sezione "files" in "documenti". Rimossa form di feedback. Aggiunta di A_656, A_657, A_658. Aggiornate riflessioni sul packaging.
