@@ -1,1 +1,1 @@
-A_120 - In certi casi l'uso del computer per scrivere concetti molti difficili per un qualche motivo erode la flora batterica intestinale.
+A_120 - In certi casi l'uso del computer per scrivere concetti molti difficili per un qualche motivo erode la flora batterica intestinale. Oltre a questo &egrave; importante sapere che quando abbiamo problemi digestivi il nostro cervello cambia il suo modo di ragionare ... la situazione dell'intestino &egrave; fortemente connessa col nostro modo di ragionare.

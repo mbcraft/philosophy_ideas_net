@@ -1,1 +1,1 @@
-A_120 - In some cases the use of the computer to write very difficult concepts for some reason erodes the intestinal bacterial flora.
+A_120 - In some cases, using a computer to write very difficult concepts for some reason erodes the intestinal bacterial flora. Furthermore, it's important to know that when we have digestive problems, our brain changes its way of reasoning... the state of the intestine is closely connected to our way of reasoning.

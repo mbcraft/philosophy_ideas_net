@@ -1,0 +1,1 @@
+A_657 - &Egrave; importante non disprezzare le conversazioni online, anche se con persone sconosciute. Esiste sempre un motivo che spinge le persone a voler comunicare, pertanto sapendo questo si pu&ograve; cercare di avere un atteggiamento morbido e rispettoso.
