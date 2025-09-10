@@ -1,1 +1,0 @@
-A_657 - It's important not to disdain online conversations, even with strangers. There's always a reason why people want to communicate, so knowing this allows you to try to maintain a gentle and respectful attitude.

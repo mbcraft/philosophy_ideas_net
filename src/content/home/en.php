@@ -12,6 +12,8 @@ ob_start();
 	This website contains a list of philosophical elements researched and compiled over the course of about a year and a half of research. It also contains numerous memes and documents on various topics. I hope you find it to your liking. - The author (Marco B.)
 	<hr />
 	<h1>Last changes</h1>
+	10 September 2025 - Removed A_657.
+	<br /><br />
 	09 September 2025 - Updates to A_088 and A_120. Added A_657.
 	<br /><br />
 	08 September 2025 - Replaced A_366.
