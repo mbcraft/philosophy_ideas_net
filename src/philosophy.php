@@ -60,9 +60,30 @@ include_once("include/top_poem.php");
                             echo "Results of search : ";
                         }  
                         echo "<ul>";
+                        $searched_words = strtolower(filter_input(INPUT_GET,"search_query"));
+                        $word_list = explode(" ",$searched_words);
                         foreach ($current_result_list as $element) {
+
+                            $element_content = get_element_content($lang,$element);
+
+                            $start = 0;
+                            $end = strlen($element_content)-1;
+                            
+                            foreach ($word_list as $word) {
+                                $p = strpos($element_content,$word);
+                                if ($p!==false) { 
+
+                                    $start = $p-60;
+                                    $end = $p + strlen($word)+60;
+                                }
+                            }
+
+                            if ($start<0) $start=0;
+                            if ($end>strlen($element_content)-1) $end=strlen($element_content)-1;
+                            $element_extract = '"...'.substr($element_content,$start,$end-$start).'..."';
+                            $element_extract = str_replace($word,'<b>'.$word.'</b>',$element_extract);
                             echo "<li>";
-                            echo "<a href='/philosophy.php?with_back_to_results=true&lang=".$lang."&mode=one_element&element_key=".$element."'>".$element."</a>";
+                            echo "<a href='/philosophy.php?with_back_to_results=true&lang=".$lang."&mode=one_element&element_key=".$element."'>".$element."</a> - ".$element_extract;
                             echo "</li>";
                         }
                         echo "</li>";
