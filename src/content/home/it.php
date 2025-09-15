@@ -12,6 +12,8 @@ ob_start();
 	Questo sito internet contiene un elenco di elementi filosofici ricercati e redatti nel corso di circa un anno e mezzo di ricerca, contiene numerosi meme e dei documenti su vari argomenti. Mi auguro che possiate trovare il tutto di vostro gradimento. - L'autore (Marco B.)
 	<hr />
 	<h1>Ultime modifiche</h1>
+	15 Settembre 2025 - Logo pagina di benvenuto.
+	<br /><br />
 	14 Settembre 2025 - Aggiornato A_031.
 	<br /><br />
 	11 Settembre 2025 - Migliorata ricerca.

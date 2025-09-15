@@ -6,14 +6,16 @@ $footer = array("it" =>
     "Immagini usate su licenza di shutterstock.com e poliigon.com.",
     "<a href='https://www.vecteezy.com/free-png/logo-telegram'>Logo Telegram PNGs by Vecteezy</a>",
     "Tutti i contenuti in lingua Italiana sono originali, scritti e sviluppati da Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</a>.",
-    "Traduzioni in Inglese con Google Translate."
+    "Traduzioni in Inglese con Google Translate.",
+    "Logo sito da Valentina Fabbri"
     ),
     "en" => array(
     "Thanks to <a href='http://openclipart.org'>openclipart.org</a>, <a href='http://texturelib.com'>texturelib.com</a> for their images.",
     "Images used under license of shutterstock.com and poliigon.com.",
     "<a href='https://www.vecteezy.com/free-png/logo-telegram'>Logo Telegram PNGs da Vecteezy</a>",
     "All content in Italian language originally written and developed by Marco Bagnaresi - <a href='https://www.mbcraft.it'>MBCRAFT</a>.",
-    "Translations to English by Google Translate.")
+    "Translations to English by Google Translate.",
+    "Site logo by Valentina Fabbri")
     );
 
 $welcome_page = array("it" => "Pagina di benvenuto",
