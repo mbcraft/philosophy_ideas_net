@@ -1,0 +1,1 @@
+A_658 - If you want to educate animals and help them develop their intelligence, it might be a good idea to provide them with geometric solids (sphere, cone, cylinder, tetrahedron, cube, dodecahedron, icosahedron...) even just ten centimeters in size so that they can observe them.

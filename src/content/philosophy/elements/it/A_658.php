@@ -1,0 +1,1 @@
+A_658 - Volendo cercare di istruire gli animali ed aiutarli a sviluppare la loro intelligenza potrebbe essere una buona idea quella di mettere a loro disposizione dei solidi geometrici (sfera, cono, cilindro, tetraedro, cubo, dodecaedro, icosaedro ...) anche solo grandi una decina di centimetri in modo che li possano osservare.
