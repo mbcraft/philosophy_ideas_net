@@ -78,7 +78,7 @@ include_once("include/top_poem.php");
                                 }
                             }
 
-                            if ($start<0) $start=0;
+                            if ($start<6) $start=6;
                             if ($end>strlen($element_content)-1) $end=strlen($element_content)-1;
                             $element_extract = '"...'.substr($element_content,$start,$end-$start).'..."';
                             $element_extract = str_replace($word,'<b>'.$word.'</b>',$element_extract);

@@ -113,7 +113,9 @@ function search_by_words($lang,$search_query) {
 
     $searched_words = strtolower(filter_input(INPUT_GET,"search_query"));
 
-    $word_list = explode(" ",$searched_words);
+    $searched_words_fixed = str_replace(',',' ',$searched_words);
+
+    $word_list = explode(" ",$searched_words_fixed);
 
     $no_result = false;
     $first_set = true;
