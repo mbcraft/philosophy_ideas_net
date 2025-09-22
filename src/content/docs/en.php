@@ -51,6 +51,11 @@ ob_start();
         - <a href=
         "/downloads/concept_harvesting_wagon_food_forest.html"
         download="">DOWNLOAD</a>)</li>
+        <li>Idea for standardized food delivery service - Version 1.0 (<a href=
+        "/downloads/idea_for_standardized_food_delivery_service.html">VIEW</a>
+        - <a href=
+        "/downloads/idea_for_standardized_food_delivery_service.html"
+        download="">DOWNLOAD</a>)</li>
     </ul>
         <hr />
     <ul>

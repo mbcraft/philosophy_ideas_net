@@ -26,7 +26,8 @@ $available_documents = array(
 		"idea_sistema_gestione_processi_giudiziari",
 		"analisi_sistemi_trasporto",
 		"sulle_atrocita_attuali_connessioni_filosofiche",
-		"concept_carro_raccolta_frutta_food_forest"
+		"concept_carro_raccolta_frutta_food_forest",
+		"idea_gestione_consegna_cibo_domicilio_standardizzata"
 		),
 	"en" => array(
 		"cerimonies",
@@ -52,6 +53,7 @@ $available_documents = array(
 		"wood_storage_management_center",
 		"idea_judicial_processes_management_system",
 		"transport_systems_analysis",
-		"concept_harvesting_wagon_food_forest"
+		"concept_harvesting_wagon_food_forest",
+		"idea_for_standardized_food_delivery_service"
 		)
 	);

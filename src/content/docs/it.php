@@ -112,6 +112,11 @@ ob_start();
         - <a href=
         "/downloads/concept_carro_raccolta_frutta_food_forest.html"
         download="">DOWNLOAD</a>)</li>
+        <li>Idea per la consegna del cibo a domicilio - Versione 1.0 (<a href=
+        "/downloads/idea_gestione_consegna_cibo_domicilio_standardizzata.html">VISUALIZZA</a>
+        - <a href=
+        "/downloads/idea_gestione_consegna_cibo_domicilio_standardizzata.html"
+        download="">DOWNLOAD</a>)</li>
     </ul>
     <hr />
     <ul>

@@ -12,7 +12,7 @@ ob_start();
 	Questo sito internet contiene un elenco di elementi filosofici ricercati e redatti nel corso di circa un anno e mezzo di ricerca, contiene numerosi meme e dei documenti su vari argomenti. Mi auguro che possiate trovare il tutto di vostro gradimento. - L'autore (Marco B.)
 	<hr />
 	<h1>Ultime modifiche</h1>
-	22 Settembre 2025 - Aggiunto A_659.
+	22 Settembre 2025 - Aggiunto A_659. Riaggiunta idea su consegna cibo a domicilio.
 	<br /><br />
 	21 Settembre 2025 - Piccoli fix alla ricerca.
 	<br /><br />
