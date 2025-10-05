@@ -12,8 +12,10 @@ $next_element = str_pad($number + 1, 3, '0', STR_PAD_LEFT);
 
 $current_range = $ranges_by_letter[$letter];
 
-$is_previous_show = $number > 1;
-$is_next_show = $number < $current_range[2] - 1;
+$is_search_with_words = filter_input(INPUT_GET, "mode")=="search_with_words";
+
+$is_previous_show = $number > 1 && !$is_search_with_words;
+$is_next_show = $number < $current_range[2] - 1 && !$is_search_with_words;
 
 //$lang is defined
 
