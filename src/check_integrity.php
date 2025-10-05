@@ -105,9 +105,17 @@ function get_file_list() {
 
    $ph_en_list = list_directory_files("/content/philosophy/elements/en/");
 
+   $it_list = list_directory_files("/it/");
+
+   $en_list = list_directory_files("/en/");
+
+   $it_phi_list = list_directory_files("/it/philosohpy/");
+
+   $en_phi_list = list_directory_files("/en/philosophy/");
+
    $meme_list = list_directory_files("/pages/");
 
-   $path_list = array_merge($include_list,$css_list,$PROJECT_DIR_list,$resources_list,$downloads_list,$content_list,$ph_en_list,$ph_it_list,$meme_list);
+   $path_list = array_merge($include_list,$css_list,$PROJECT_DIR_list,$resources_list,$downloads_list,$content_list,$ph_en_list,$ph_it_list,$it_list,$en_list,$it_phi_list,$en_phi_list,$meme_list);
 
    return $path_list;
 
