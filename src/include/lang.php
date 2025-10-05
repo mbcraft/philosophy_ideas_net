@@ -1,6 +1,6 @@
 <?php
 
-$current_doc = $_SERVER['PHP_SELF'];
+$current_doc = $_SERVER['REQUEST_URI'];
 
 $prepared_string = substr($current_doc,1);
 
