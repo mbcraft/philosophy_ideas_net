@@ -66,15 +66,19 @@ function get_file_signature($path) {
 
 function list_directory_files($dir_path) {
 
-   $file_list = scandir(__DIR__.$dir_path);
-
    $result = [];
 
-   foreach ($file_list as $f) {
-      if ($f != '.' && $f != "..") {
-         
-         if (is_file(__DIR__.$dir_path.$f)) $result[] = $dir_path.$f;
+   if (is_dir(__DIR__.$dir_path)) {
+
+      $file_list = scandir(__DIR__.$dir_path);
+
+      foreach ($file_list as $f) {
+         if ($f != '.' && $f != "..") {
+            
+            if (is_file(__DIR__.$dir_path.$f)) $result[] = $dir_path.$f;
+         }
       }
+
    }
 
    return $result;
