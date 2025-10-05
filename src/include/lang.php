@@ -6,9 +6,19 @@ $prepared_string = substr($current_doc,1);
 
 $parts = explode('/',$prepared_string);
 
-$lang = $parts[0];
+$lang = null;
 
-define("LANG",$lang);
+if (!defined("LANG")) {
+
+	$lang = $parts[0];
+
+	define("LANG",$lang);
+
+} else {
+
+	$lang = LANG;
+
+}
 
 $current_page = end($parts);
 

@@ -1,5 +1,6 @@
 <?php
 
+define("LANG","en");
 
 require_once('../include/lang.php');
 include_once("../include/begin_html.php");
