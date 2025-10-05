@@ -21,8 +21,14 @@ foreach ($all_ranges as $range) {
 
 		$filename = $range[0].'_'.str_pad($i,3,"0",STR_PAD_LEFT).".php";
 
-		if (!file_exists(PROJECT_DIR."/it/philosophy/".$filename)) file_put_contents(PROJECT_DIR."/it/philosophy/".$filename,$page_content);
-		if (!file_exists(PROJECT_DIR."/en/philosophy/".$filename)) file_put_contents(PROJECT_DIR."/en/philosophy/".$filename,$page_content);
+		if (!file_exists(PROJECT_DIR."/it/philosophy/".$filename)) {
+			file_put_contents(PROJECT_DIR."/it/philosophy/".$filename,$page_content);
+			echo "File ".PROJECT_DIR."/it/philosophy/".$filename." created!\n";
+		}
+		if (!file_exists(PROJECT_DIR."/en/philosophy/".$filename)) {
+			file_put_contents(PROJECT_DIR."/en/philosophy/".$filename,$page_content);
+			echo "File ".PROJECT_DIR."/en/philosophy/".$filename." created!\n";
+		}
 
 	}
 
