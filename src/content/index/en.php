@@ -37,6 +37,11 @@ require_once (DIR_PREFIX."include/site_variables.php");
         <input id="BACKGROUND" type="hidden" name="BACKGROUND" value="white" />
         <input class="enter_button" type="submit" value="Enter" <?=$is_open ? '' : 'disabled'?>/>
     </form>
+    <?php if ($is_open) { ?>
+        <br />
+    or<br /><br />
+    <a href="/en/home.php">Enter without choosing the background</a>
+    <?php } ?>
 </div>
     <br />
     <div align="center">

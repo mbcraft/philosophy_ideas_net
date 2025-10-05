@@ -3,8 +3,6 @@
 $parts = explode('_',$element);
 
 $letter_series = array('H','A','B','C','D','T','Z');
-//$letter_series_previous = array('H' => null,'A' => 'H','B' => 'A','C' => 'B','D' => 'C', 'T' => 'D','Z' => 'T');
-//$letter_series_next = array('H' => 'A','A' => 'B','B' => 'C','C' => 'D','D' => 'T','T' => 'Z','Z' => null);
 
 $letter = $parts[0];
 $number = $parts[1];
@@ -26,7 +24,7 @@ $is_next_show = $number < $current_range[2] - 1;
     ?>
     <div align="left" class='s5 m4 l3 w3-margin' style="display:inline-block;vertical-align: middle;">
             <?php
-                echo_generic_small_page_button("document.location.href='/".$lang."/philosophy.php?mode=one_element&with_back_to_results=false&element_key=".$letter."_".$previous_element."';","back_to_search_button_background.jpg","white","Precedente","Previous");
+                echo_generic_small_page_button("document.location.href='/".$lang."/philosophy/".$letter."_".$previous_element.".php?with_back_to_results=false';","back_to_search_button_background.jpg","white","Precedente","Previous");
             ?>
     </div>
     <?php
@@ -43,7 +41,9 @@ $is_next_show = $number < $current_range[2] - 1;
     ?>
     <div align="right" class='s5 m4 l3 w3-margin' style="display:inline-block; vertical-align: middle;">
             <?php
-                echo_generic_small_page_button("document.location.href='/".$lang."/philosophy.php?mode=one_element&with_back_to_results=false&element_key=".$letter."_".$next_element."';","back_to_search_button_background.jpg","white","Successivo","Next");
+
+
+                echo_generic_small_page_button("document.location.href='/".$lang."/philosophy/".$letter."_".$next_element.".php?with_back_to_results=false';","back_to_search_button_background.jpg","white","Successivo","Next");
             ?>
     </div>
     <?php
@@ -53,24 +53,24 @@ $is_next_show = $number < $current_range[2] - 1;
 </div>
 <div align="center">
     <?php
-        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy.php?mode=one_element&with_back_to_results=false&element_key=H_001';","back_to_search_button_background.jpg","white","[ H ]","[ H ]","v_1");
+        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy/H_001.php?with_back_to_results=false';","back_to_search_button_background.jpg","white","[ H ]","[ H ]","v_1");
     ?>
     <?php
-        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy.php?mode=one_element&with_back_to_results=false&element_key=A_001';","back_to_search_button_background.jpg","white","[ A ]","[ A ]","v_2");
+        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy/A_001.php?with_back_to_results=false';","back_to_search_button_background.jpg","white","[ A ]","[ A ]","v_2");
     ?>
     <?php
-        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy.php?mode=one_element&with_back_to_results=false&element_key=B_000';","back_to_search_button_background.jpg","white","[ B ]","[ B ]","v_3");
+        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy/B_000.php?with_back_to_results=false';","back_to_search_button_background.jpg","white","[ B ]","[ B ]","v_3");
     ?>
     <?php
-        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy.php?mode=one_element&with_back_to_results=false&element_key=C_001';","back_to_search_button_background.jpg","white","[ C ]","[ C ]","v_4");
+        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy/C_001.php?with_back_to_results=false';","back_to_search_button_background.jpg","white","[ C ]","[ C ]","v_4");
     ?>
     <?php
-        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy.php?mode=one_element&with_back_to_results=false&element_key=D_001';","back_to_search_button_background.jpg","white","[ D ]","[ D ]","v_5");
+        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy/D_001.php?with_back_to_results=false';","back_to_search_button_background.jpg","white","[ D ]","[ D ]","v_5");
     ?>
     <?php
-        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy.php?mode=one_element&with_back_to_results=false&element_key=T_001';","back_to_search_button_background.jpg","white","[ T ]","[ T ]","v_6");
+        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy/T_001.php?with_back_to_results=false';","back_to_search_button_background.jpg","white","[ T ]","[ T ]","v_6");
     ?>
     <?php
-        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy.php?mode=one_element&with_back_to_results=false&element_key=Z_001';","back_to_search_button_background.jpg","white","[ Z ]","[ Z ]","v_7");
+        echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy/Z_001.php?with_back_to_results=false';","back_to_search_button_background.jpg","white","[ Z ]","[ Z ]","v_7");
     ?>
 </div>    

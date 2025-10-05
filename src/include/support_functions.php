@@ -111,14 +111,14 @@ function echo_empty_small_placeholder() {
 
 function echo_generic_big_page_button($javascript_action,$background_image,$text_color,$it_label,$en_label) {
     
-    if ($_SESSION["LANG"]=="it") {
+    if (LANG=="it") {
     ?>
         <div class='w3-cell w3-mobile s6 m6 l6 p huge_rounded'>
             <button type="button" class="big_page_button" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$it_label ?></h3></button>
         </div>
     <?php
     }
-    if ($_SESSION["LANG"]=="en") {
+    if (LANG=="en") {
     ?>
         <div class='w3-cell w3-mobile s6 m6 l6 p huge_rounded'>
             <button type="button" class="big_page_button" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$en_label ?></h3></button>

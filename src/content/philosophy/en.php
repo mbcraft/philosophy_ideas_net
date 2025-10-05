@@ -8,7 +8,7 @@ $keywords = "philosophy, tips, friendship";
 ob_start();
 ?>
 <div align="center">
-	To view one element, insert in the search bar the corresponding key. Underscore and padding zeroes are optional. <a href="/philosophy.php?mode=one_element&with_back_to_results=false&element_key=H_001&lang=<?=$lang ?>">Read the 'H' elements</a> before reading others.
+	To view one element, insert in the search bar the corresponding key. Underscore and padding zeroes are optional. <a href="/<?=$lang ?>/philosophy/H_001.php?with_back_to_results=false">Read the 'H' elements</a> before reading others.
 	Actually the following range of elements are available : 
 	<?php
 	print_available_ranges($all_ranges);
@@ -17,7 +17,7 @@ ob_start();
 	Insert the identifier of an element (ex: "A_123") to view it.
 	<br />
 	<br />
-	<form name="search_element" action="/philosophy.php" method="GET">
+	<form name="search_element" action="/<?=$lang ?>/philosophy.php" method="GET">
 		<input type="hidden" name="mode" value="one_element" />
 		<input type="hidden" name="with_back_to_results" value="false" />
 		<input type="hidden" name="lang" value="<?=$lang ?>" />
@@ -28,15 +28,15 @@ ob_start();
 	If instead you want to make a search by words inside the elements, insert all the words that should be present in this search bar :
 	<br />
 	<br />
-	<form name="search_by_words" action="/philosophy.php" method="GET">
+	<form name="search_by_words" action="/<?=$lang ?>/philosophy.php" method="GET">
 		<input type="hidden" name="mode" value="search_with_words" />
 		<input type="text" name="search_query" minlength="3">
 		<button type="submit">Search</button>
 	</form>
 	<br />
-	<a href="/philosophy.php?mode=full_links_list&lang=<?=$lang ?>">Here</a> you can find links to all the items.<br />
+	<a href="/<?=$lang ?>/philosophy.php?mode=full_links_list">Here</a> you can find links to all the items.<br />
 	If instead you want to view the complete full list, use this button :
-	<form name="full_list" action="/philosophy.php" method="GET" style="padding:10px;">
+	<form name="full_list" action="/<?=$lang ?>/philosophy.php" method="GET" style="padding:10px;">
 		<input type="hidden" name="mode" value="full_list" />
 		<button type="submit">Full list</button>
 	</form>

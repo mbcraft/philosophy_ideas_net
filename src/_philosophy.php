@@ -83,7 +83,7 @@ include_once("include/top_poem.php");
                             $element_extract = '"...'.substr($element_content,$start,$end-$start).'..."';
                             $element_extract = str_replace($word,'<b>'.$word.'</b>',$element_extract);
                             echo "<li>";
-                            echo "<a href='/philosophy.php?with_back_to_results=true&lang=".$lang."&mode=one_element&element_key=".$element."'>".$element."</a> - ".$element_extract;
+                            echo "<a href='/".$lang."/philosophy/".$element.".php?with_back_to_results=true'>".$element."</a> - ".$element_extract;
                             echo "</li>";
                         }
                         echo "</li>";
