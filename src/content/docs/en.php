@@ -61,7 +61,7 @@ ob_start();
     <ul>
         <!--
         <li>Instructions for fixing Facebook profile from unwanted posts (<a href="/downloads/instructions_for_fixing_facebook_profile.html">VIEW</a> - <a href="/downloads/instructions_for_fixing_facebook_profile.html" download>DOWNLOAD</a>)</li>-->
-        <li>Reportage on the usage of voodoo made with litter (<a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">FROM GOOGLE DRIVE</a> or contact me with the <a href="/send_feedback.php?element_type=file&element_id=reportage_mafia_voodoo">feedback form</a> for getting a WeTransfer) (1.2 GB) (Many languages)</li>
+        <li>Reportage on the usage of voodoo made with litter (<a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">FROM GOOGLE DRIVE</a>) (1.2 GB) (Many languages)</li>
         
         
     </ul>

@@ -125,8 +125,7 @@ ob_start();
         indesiderati (<a href="/downloads/istruzioni_per_sistemazione_profilo_facebook.html">VISUALIZZA</a> - <a href=
         "/downloads/istruzioni_per_sistemazione_profilo_facebook.html" download>DOWNLOAD</a>)</li> -->
 
-        <li>Reportage su uso del voodoo effettuato tramite lo spargimento di immondizia (<a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">DA GOOGLE DRIVE</a> - oppure contattami con la <a href="/send_feedback.php?element_type=file&amp;element_id=reportage_mafia_voodoo">
-        form di feedback</a> per avere un WeTransfer) (1.2 GB) (Varie
+        <li>Reportage su uso del voodoo effettuato tramite lo spargimento di immondizia (<a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">DA GOOGLE DRIVE</a>) (1.2 GB) (Varie
         lingue)</li>
         <li>Sulle atrocit&agrave; attuali - Connessioni filosofiche (disponibile solo in Italiano) - Versione 1.1 (<a href=
         "/downloads/sulle_atrocita_attuali_connessioni_filosofiche.html">VISUALIZZA</a>
