@@ -21,8 +21,8 @@ foreach ($all_ranges as $range) {
 
 		$filename = $range[0].'_'.str_pad($i,3,"0",STR_PAD_LEFT).".php";
 
-		file_put_contents(PROJECT_DIR."/it/philosophy/".$filename,$page_content);
-		file_put_contents(PROJECT_DIR."/en/philosophy/".$filename,$page_content);
+		if (!file_exists(PROJECT_DIR."/it/philosophy/".$filename)) file_put_contents(PROJECT_DIR."/it/philosophy/".$filename,$page_content);
+		if (!file_exists(PROJECT_DIR."/en/philosophy/".$filename)) file_put_contents(PROJECT_DIR."/en/philosophy/".$filename,$page_content);
 
 	}
 
