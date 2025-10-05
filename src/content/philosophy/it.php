@@ -34,7 +34,7 @@ ob_start();
 		<button type="submit">Cerca</button>
 	</form>
 	<br />
-	<a href="/philosophy.php?mode=full_links_list&lang=<?=$lang ?>">Qui</a> puoi trovare i link a tutti gli elementi.<br />
+	<a href="/<?=$lang ?>/philosophy.php?mode=full_links_list">Qui</a> puoi trovare i link a tutti gli elementi.<br />
 	Se invece vuoi vedere l'elenco completo integrale, usa questo pulsante :
 	<form name="full_list" action="/philosophy.php" method="GET" style="padding:10px;">
 		<input type="hidden" name="mode" value="full_list" />

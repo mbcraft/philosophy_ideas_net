@@ -15,7 +15,7 @@ $keywords = "sito internet, hosting, MBCRAFT";
 		    <span style="color:red;">Non &egrave; presente un cookie banner in quanto sono utilizzati solo cookie tecnici.<br /> Non ci sono contatori delle visite.</span>
 		</h3>
 		<?php
-		 	include_once("include/back_to_welcome_page.php");
+		 	include_once(DIR_PREFIX."include/back_to_welcome_page.php");
 	 	?>
 	</div>
 </div>

@@ -65,14 +65,14 @@ function extract_random_prime_5_digits() {
 
 function echo_generic_very_small_page_button($javascript_action,$background_image,$text_color,$it_label,$en_label,$additional_class) {
     
-    if ($_SESSION["LANG"]=="it") {
+    if (LANG=="it") {
     ?>
         <div class='w3-cell w3-mobile s3 m2 l2 p very_small_rounded'>
             <button type="button" class="very_small_page_button <?=$additional_class ?>" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$it_label ?></h3></button>
         </div>
     <?php
     }
-    if ($_SESSION["LANG"]=="en") {
+    if (LANG=="en") {
     ?>
         <div class='w3-cell w3-mobile s3 m2 l2 p very_small_rounded'>
             <button type="button" class="very_small_page_button <?=$additional_class ?>" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$en_label ?></h3></button>
@@ -85,14 +85,14 @@ function echo_generic_very_small_page_button($javascript_action,$background_imag
 
 function echo_generic_small_page_button($javascript_action,$background_image,$text_color,$it_label,$en_label) {
     
-    if ($_SESSION["LANG"]=="it") {
+    if (LANG=="it") {
     ?>
         <div class='w3-cell w3-mobile s4 m3 l3 p small_rounded'>
             <button type="button" class="small_page_button" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$it_label ?></h3></button>
         </div>
     <?php
     }
-    if ($_SESSION["LANG"]=="en") {
+    if (LANG=="en") {
     ?>
         <div class='w3-cell w3-mobile s4 m3 l3 p small_rounded'>
             <button type="button" class="small_page_button" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$en_label ?></h3></button>

@@ -7,7 +7,7 @@ $keywords = "ricerca, filosofia, meme, documenti";
 
 ob_start();
 
-require_once ("include/site_variables.php");
+require_once (DIR_PREFIX."include/site_variables.php");
 
 ?>
 <div align='center' style="padding-top: 30px;">
@@ -33,7 +33,7 @@ require_once ("include/site_variables.php");
     <?php
         }
     ?>
-    <form method="POST" name="background_enter_form" action="/home.php">
+    <form method="POST" name="background_enter_form" action="/it/home.php">
         <input id="BACKGROUND" type="hidden" name="BACKGROUND" value="white" />
         <input class="enter_button" type="submit" value="Entra" <?=$is_open ? '' : 'disabled'?>/>
     </form>

@@ -15,7 +15,7 @@ $keywords = "internet site, hosting, MBCRAFT";
 			<span style="color:red;">There is no cookie banner as there are only technical cookies.<br /> There are no visit counters.</span>
 		</h3>
 		<?php
-		 	include_once("include/back_to_welcome_page.php");
+		 	include_once(DIR_PREFIX."include/back_to_welcome_page.php");
 	 	?>
 	</div>
 </div>

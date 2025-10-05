@@ -55,7 +55,7 @@ function print_footer($elements) {
         <h3>
 
         <br />
-        <b><a href="/index.php"><?= $welcome_page[$lang] ?></a></b><br />
+        <b><a href="/<?=$lang ?>/index.php"><?= $welcome_page[$lang] ?></a></b><br />
         <br /><br />
         </h3>
         <h4>

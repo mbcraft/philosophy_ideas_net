@@ -2,7 +2,7 @@
 
 $range_H_A = array('H',1,12,'black');
 $range_A_A = array('A',1,660,'black');
-$range_B_A = array('B',1,18,'black');
+$range_B_A = array('B',0,18,'black');
 $range_C_A = array('C',1,12,'black');
 $range_D_A = array('D',1,3,'black');
 $range_T_A = array('T',1,3,'black');
@@ -150,9 +150,9 @@ function generate_philosophy_links_list($all_ranges,$lang) {
 
         for ($i=$begin;$i<$end;$i++) {
 
-            $element = $letter.'_'.str_pad($i,3,'0',STR_PAD_LEFT);
+            $element = $letter.'_'.str_pad($i,3,'0',STR_PAD_LEFT).".php";
 
-            echo "<a href='/philosophy.php?with_back_to_results=false&mode=one_element&lang=".$lang."&element_key=".$element."'>".$element."</a> - ";
+            echo "<a href='/".LANG."/philosophy/".$element."'>".$element."</a> - ";
         }
 
         echo "<br /><br /><br />";
