@@ -210,7 +210,7 @@ function check_with_online_file_list($hostname) {
       }
    }
 
-   $online_data = file_get_contents("https://www.mbcraft.it/check_integrity.php?command=print_all");
+   $online_data = file_get_contents("https://".$hostname."/check_integrity.php?command=print_all");
    $online_data = fix_all_br_tags($online_data);
    $online_data_elements = explode("---END OF SIGNATURE---",$online_data);
 
