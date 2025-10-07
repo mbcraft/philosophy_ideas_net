@@ -3,33 +3,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-      <loc>http://www.mbcraft.it/index.php</loc>
-      <lastmod>2025-10-05</lastmod>
+      <loc>http://www.mbcraft.it/it/index.php</loc>
+      <lastmod>2025-10-07</lastmod>
       <changefreq>yearly</changefreq>
-      <priority>0.05</priority>
+      <priority>0.025</priority>
    </url>
    <url>
-      <loc>http://www.mbcraft.it/home.php</loc>
-      <lastmod>2024-10-05</lastmod>
+      <loc>http://www.mbcraft.it/it/home.php</loc>
+      <lastmod>2024-10-07</lastmod>
       <changefreq>yearly</changefreq>
-      <priority>0.05</priority>
+      <priority>0.025</priority>
    </url>
    <url>
-      <loc>http://www.mbcraft.it/philosophy.php</loc>
-      <lastmod>2025-10-05</lastmod>
+      <loc>http://www.mbcraft.it/it/philosophy.php</loc>
+      <lastmod>2025-10-07</lastmod>
       <changefreq>yearly</changefreq>
-      <priority>0.3</priority>
+      <priority>0.15</priority>
    </url>
    <url>
-      <loc>http://www.mbcraft.it/fun.php</loc>
-      <lastmod>2025-10-05</lastmod>
+      <loc>http://www.mbcraft.it/it/fun.php</loc>
+      <lastmod>2025-10-07</lastmod>
       <changefreq>yearly</changefreq>
-      <priority>0.3</priority>
+      <priority>0.15</priority>
    </url>
    <url>
-      <loc>http://www.mbcraft.it/docs.php</loc>
-      <lastmod>2025-10-05</lastmod>
+      <loc>http://www.mbcraft.it/it/docs.php</loc>
+      <lastmod>2025-10-07</lastmod>
       <changefreq>yearly</changefreq>
-      <priority>0.3</priority>
+      <priority>0.15</priority>
+   </url>
+
+      <url>
+      <loc>http://www.mbcraft.it/en/index.php</loc>
+      <lastmod>2025-10-07</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.025</priority>
+   </url>
+   <url>
+      <loc>http://www.mbcraft.it/en/home.php</loc>
+      <lastmod>2024-10-07</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.025</priority>
+   </url>
+   <url>
+      <loc>http://www.mbcraft.it/en/philosophy.php</loc>
+      <lastmod>2025-10-07</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.15</priority>
+   </url>
+   <url>
+      <loc>http://www.mbcraft.it/en/fun.php</loc>
+      <lastmod>2025-10-07</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.15</priority>
+   </url>
+   <url>
+      <loc>http://www.mbcraft.it/en/docs.php</loc>
+      <lastmod>2025-10-07</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.15</priority>
    </url>
 </urlset> 
