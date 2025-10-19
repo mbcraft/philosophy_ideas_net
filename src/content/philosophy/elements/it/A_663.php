@@ -1,0 +1,1 @@
+A_663 - Personalmente sconsiglio l'uso del voodoo a chiunque, in quanto &egrave; dimostrato che quando certi pastrocchi vengono smontati, si pagano poi care conseguenze per quello che si era imbastito. Lasciamo alla natura la sua magia.
