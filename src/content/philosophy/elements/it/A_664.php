@@ -1,0 +1,1 @@
+A_664 - &Egrave; importante non ignorare i segnali dolorosi e spiacevoli che il nostro corpo ci invia. Sono inviti a fare attivit&agrave; fisica, a nutrirci correttamente e a mantenere uno stile di vita sano. Ignorarli comporta solo un problema futuro pi&ugrave; grande.
