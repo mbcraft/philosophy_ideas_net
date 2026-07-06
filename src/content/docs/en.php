@@ -7,10 +7,9 @@ $keywords = "files, documents, view, download";
 
 ob_start();
 ?>
-<h3>
 <div align='left'>
-    
-        <h2>Little ideas</h2>
+
+    <h2>Little ideas</h2>
     <ul>
         <li>The parcel game - rules - Version 1.0 (<a href="/downloads/the_parcel_game.pdf">VIEW</a> - <a href="/downloads/the_parcel_game.pdf" download> DOWNLOAD [PDF]</a>)</li>
         <li>Recipe for an optimal tea - (<a href="/downloads/tea_recipe.html">VIEW</a> - <a download href="/downloads/tea_recipe.html"> DOWNLOAD [HTML]</a>)</li>
@@ -66,7 +65,7 @@ ob_start();
         
     </ul>
     <hr />
-    Ebook for sale on Amazon (they can be read also using a browser on a computer) (always read the description before evaluating the purchase) :
+    <p>Ebook for sale on Amazon (they can be read also using a browser on a computer) (always read the description before evaluating the purchase):</p>
     <ul>
         <li><a href="https://a.co/d/hD9QQBj">Thoughts in pills - 1 - The kinds of perceptions of the human body</a></li>
         <li><a href="https://a.co/d/eCkR9lW">Thoughts in pills - 2 - The therapies of the elements</a></li>
@@ -76,9 +75,8 @@ ob_start();
         <li><a href="https://a.co/d/dge8Amz">Thoughts in pills - 6 - The zodiac - An interpretation</a></li>
         <li><a href="https://a.co/d/d5Z3ngN">Thoughts in pills - 7 - Potted plants - Some notes</a></li>
     </ul>
-    
+
 </div>
-</h3>
 <?php
 $content = ob_get_contents();
 ob_end_clean();

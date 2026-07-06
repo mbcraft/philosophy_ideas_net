@@ -13,7 +13,7 @@ include_once("../include/top_poem.php");
 <div id="main_content" class="content">
     <div class="box_very_large">
     	<div align="center">
-        	<img src="/images/meme/meme_portavalori/meme_portavalori_eng.png" width="1100"/>
+        	<img src="/images/meme/meme_portavalori/meme_portavalori_eng.png" alt="Portavalori" width="1100"/>
     	</div>
         <br />
         <br />

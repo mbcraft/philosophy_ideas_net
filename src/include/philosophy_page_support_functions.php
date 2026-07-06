@@ -132,11 +132,10 @@ function search_by_words($lang,$search_query) {
             } else {
                 $current_result_list = array_intersect($current_result_list,$element_list);
             }
-        } else 
-        {
-            $no_result = true;
         }
     }
+
+    $no_result = empty($current_result_list);
 
     return array("no_results" => $no_result,"result_set" => $current_result_list);
 }

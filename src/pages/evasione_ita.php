@@ -12,7 +12,7 @@ include_once("../include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_very_large">
-        <img src="/images/meme/meme_evasione/meme_evasione_ita.jpg" width="1100" />
+        <img src="/images/meme/meme_evasione/meme_evasione_ita.jpg" alt="Evasione" width="1100" />
     </div>
 </div>
 <?php

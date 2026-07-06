@@ -13,7 +13,7 @@ include_once("../include/top_poem.php");
 <div id="main_content" class="content">
     <div class="box_very_large">
     	<div align="center">
-        	<img src="/images/meme/meme_fears/my_fears_eng.png" width="1100"/>
+        	<img src="/images/meme/meme_fears/my_fears_eng.png" alt="My Fears" width="1100"/>
     	</div>
         <br />
         PS : but after all, a dragon is just a cat that was able to steal all your heroin ...

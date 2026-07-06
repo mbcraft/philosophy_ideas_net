@@ -13,7 +13,7 @@ include_once("../include/top_poem.php");
 <div id="main_content" class="content">
     <div class="box_very_large">
     	<div align="center">
-        	<img src="/images/meme/meme_self_sabotage/meme_self_sabotage_eng.png" width="500"/>
+        	<img src="/images/meme/meme_self_sabotage/meme_self_sabotage_eng.png" alt="Self Sabotage" width="500"/>
     	</div>
     </div>
 </div>

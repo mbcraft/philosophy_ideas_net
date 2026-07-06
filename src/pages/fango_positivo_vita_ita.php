@@ -12,7 +12,7 @@ include_once("../include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_very_large">
-        <img src="/images/meme/meme_fango_positivo_vita/meme_palude_fango_ita.jpg" width="1100"/>
+        <img src="/images/meme/meme_fango_positivo_vita/meme_palude_fango_ita.jpg" alt="Palude Fango" width="1100"/>
     </div>
 </div>
 <?php

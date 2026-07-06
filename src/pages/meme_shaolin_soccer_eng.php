@@ -13,7 +13,7 @@ include_once("../include/top_poem.php");
 <div id="main_content" class="content">
     <div class="box_very_large">
     	<div align="center">
-        	<img src="/images/meme/meme_shaolin_soccer/meme_shaolin_soccer_eng.png" width="1100"/>
+        	<img src="/images/meme/meme_shaolin_soccer/meme_shaolin_soccer_eng.png" alt="Shaolin Soccer" width="1100"/>
     	</div>
         <br />
         

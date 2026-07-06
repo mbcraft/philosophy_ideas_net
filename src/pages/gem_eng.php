@@ -19,7 +19,7 @@ include_once("../include/top_poem.php");
         <hr />
         <div id="img_1" align="center">
             <a href="#img_2">
-                <img src="/images/meme/meme_gem/gem_eng_1.jpg" width="500" />
+                <img src="/images/meme/meme_gem/gem_eng_1.jpg" alt="Gem Eng 1" width="500" />
                 <b>
                     <div style="width:200px;">
                         <ol>
@@ -32,12 +32,12 @@ include_once("../include/top_poem.php");
         </div>
         <div id="img_2" align="center">
             <a href="#img_3">
-                <img src="/images/meme/meme_gem/gem_eng_2.jpg" width="500" style="padding-bottom:2000px;"/>
+                <img src="/images/meme/meme_gem/gem_eng_2.jpg" alt="Gem Eng 2" width="500" style="padding-bottom:2000px;"/>
             </a>
         </div>
         <div id="img_3" align="center">
             <a href="#begin_of_page">
-                <img src="/images/meme/meme_gem/gem_eng_3.jpg" width="500" />
+                <img src="/images/meme/meme_gem/gem_eng_3.jpg" alt="Gem Eng 3" width="500" />
                 <br />
                 <div style="width:200px;">
                     <b>

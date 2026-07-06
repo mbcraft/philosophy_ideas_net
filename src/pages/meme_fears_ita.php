@@ -13,7 +13,7 @@ include_once("../include/top_poem.php");
 <div id="main_content" class="content">
     <div class="box_very_large">
     	<div align="center">
-        	<img src="/images/meme/meme_fears/my_fears_ita.png" width="1100"/>
+        	<img src="/images/meme/meme_fears/my_fears_ita.png" alt="My Fears" width="1100"/>
     	</div>
         <br />
         PS : ma in fondo un drago non &egrave; altro che un gatto che &egrave; riuscito a rubare tutta la tua eroina ...

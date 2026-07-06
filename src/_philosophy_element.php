@@ -1,6 +1,7 @@
 <?php
 
 require_once('include/lang.php');
+include_once("include/visit_counter.php");
 
 if (!defined("PROJECT_DIR"))
 define("PROJECT_DIR",__DIR__);
@@ -27,11 +28,7 @@ include_once("include/top_poem.php");
             $letter = $parts[0];
             $element_number = $parts[1];
 
-            echo "<h2>";
             echo get_element_content($lang,$element);
-            echo "</h2>";
-                    
-            echo $content;
 
             if (filter_input(INPUT_GET,"with_back_to_results")==="true") include("include/back_to_search_results.php");
             else include_once("include/back_to_philosophy_search_page.php");

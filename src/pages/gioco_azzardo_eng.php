@@ -26,19 +26,19 @@ include_once("../include/top_poem.php");
         </div>
     	<div id="img_1" align="center">
     		<a href="#img_2">
-        		<img src="/images/meme/meme_gioco_azzardo/eng/gioco_azzardo_1_eng.jpg" width="600" style="padding-top:100px;padding-bottom:2000px"/>
+        		<img src="/images/meme/meme_gioco_azzardo/eng/gioco_azzardo_1_eng.jpg" alt="Gioco Azzardo 1" width="600" style="padding-top:100px;padding-bottom:2000px"/>
         	</a>
         </div>
         <hr />
         <div id="img_2" align="center">
         	<a href="#img_3">
-        		<img src="/images/meme/meme_gioco_azzardo/eng/gioco_azzardo_2_eng.jpg" width="600" style="padding-top:100px;padding-bottom:2000px"/>
+        		<img src="/images/meme/meme_gioco_azzardo/eng/gioco_azzardo_2_eng.jpg" alt="Gioco Azzardo 2" width="600" style="padding-top:100px;padding-bottom:2000px"/>
         	</a>
         </div>
         <hr />
         <div id="img_3" align="center" style="text-align:center;">
         	<a href="#begin_of_page">
-        		<img src="/images/meme/meme_gioco_azzardo/eng/gioco_azzardo_3_eng.jpg" width="600" style="padding-top:100px;"/>
+        		<img src="/images/meme/meme_gioco_azzardo/eng/gioco_azzardo_3_eng.jpg" alt="Gioco Azzardo 3" width="600" style="padding-top:100px;"/>
                 <div style="text-align:center;">
                     CLICK ON THE IMAGE TO RETURN TO THE BEGINNING.
                 </div>

@@ -1,7 +1,19 @@
+.background_image_list {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
 .background_image_list li {
     list-style: none;
     display:inline-block;
     margin:5px;
+}
+
+.background_thumb_btn {
+    background: none;
+    border: none;
+    padding: 0;
     cursor: pointer;
 }
 

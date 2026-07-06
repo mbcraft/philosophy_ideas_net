@@ -1,8 +1,7 @@
 <?php
 
-define("DIR_PREFIX","../");
-
 require_once(DIR_PREFIX.'include/lang.php');
+include_once(DIR_PREFIX."include/visit_counter.php");
 include_once(DIR_PREFIX."include/begin_html.php");
 include_once(DIR_PREFIX."content/fun/".$lang.".php");
 include_once(DIR_PREFIX."include/meta.php");

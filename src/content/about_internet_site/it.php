@@ -11,8 +11,10 @@ $keywords = "sito internet, hosting, MBCRAFT";
     <br />
     <div class="box_large">
 		<h3>
-		    <span style="color:green;">Questo sito internet &egrave; responsive e i suoi contenuti testuali (non i meme) sono anche comodamente visibili e consultabili da smartphone.</span><br />
+		    <span style="color:green;">Questo sito internet &egrave; responsive e i suoi contenuti testuali sono anche comodamente visibili e consultabili da smartphone.</span><br />
 		    <span style="color:red;">Non &egrave; presente un cookie banner in quanto sono utilizzati solo cookie tecnici.<br /> Non ci sono contatori delle visite.</span>
+		    <br />
+		    Il sito internet <a href="https://www.philosophy-ideas.net">www.philosophy-ideas.net</a> &egrave; in hosting presso DFDT (Italia).
 		</h3>
 		<?php
 		 	include_once(DIR_PREFIX."include/back_to_welcome_page.php");

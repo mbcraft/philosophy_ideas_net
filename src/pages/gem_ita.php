@@ -19,17 +19,17 @@ include_once("../include/top_poem.php");
         <hr />
         <div id="img_1" align="center">
             <a href="#img_2">
-                <img src="/images/meme/meme_gem/gem_ita_1.jpg" width="600" style="padding-top:100px;padding-bottom:2000px;"/>
+                <img src="/images/meme/meme_gem/gem_ita_1.jpg" alt="Gem Ita 1" width="600" style="padding-top:100px;padding-bottom:2000px;"/>
             </a>
         </div>
         <div id="img_2" align="center">
             <a href="#img_3">
-                <img src="/images/meme/meme_gem/gem_ita_2.jpg" width="600" style="padding-top:100px;padding-bottom:2000px;"/>
+                <img src="/images/meme/meme_gem/gem_ita_2.jpg" alt="Gem Ita 2" width="600" style="padding-top:100px;padding-bottom:2000px;"/>
             </a>
         </div>
         <div id="img_3" align="center">
             <a href="#begin_of_page">
-                <img src="/images/meme/meme_gem/gem_ita_3.jpg" width="600" />
+                <img src="/images/meme/meme_gem/gem_ita_3.jpg" alt="Gem Ita 3" width="600" />
             </a>
             <br />
             CLICCA SULL'IMMAGINE PER TORNARE ALL'INIZIO.

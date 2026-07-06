@@ -19,37 +19,37 @@ include_once("../include/top_poem.php");
         <hr />
         <div id="img_1" align="center">
             <a href="#img_2">
-                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_1_ita.jpg" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
+                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_1_ita.jpg" alt="Vita Eterna 1" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
             </a>
         </div>
         <div id="img_2" align="center">
             <a href="#img_3">
-                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_2_ita.jpg" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
+                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_2_ita.jpg" alt="Vita Eterna 2" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
             </a>
         </div>
         <div id="img_3" align="center">
             <a href="#img_4">
-                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_3_ita.jpg" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
+                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_3_ita.jpg" alt="Vita Eterna 3" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
             </a>
         </div>
         <div id="img_4" align="center">
             <a href="#img_5">
-                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_4_ita.jpg" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
+                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_4_ita.jpg" alt="Vita Eterna 4" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
             </a>
         </div>
         <div id="img_5" align="center">
             <a href="#img_6">
-                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_5_ita.jpg" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
+                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_5_ita.jpg" alt="Vita Eterna 5" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
             </a>
         </div>
         <div id="img_6" align="center">
             <a href="#img_7">
-                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_6_ita.jpg" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
+                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_6_ita.jpg" alt="Vita Eterna 6" width="1100" style="padding-top:100px;padding-bottom:2000px;"/>
             </a>
         </div>
         <div id="img_7" align="center">
             <a href="#begin_of_page">
-                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_7_ita.png" width="1100" style="padding-top:100px;"/>
+                <img src="/images/meme/meme_vita_eterna/ita/vita_eterna_7_ita.png" alt="Vita Eterna 7" width="1100" style="padding-top:100px;"/>
                 CLICCA SULL'IMMAGINE PER TORNARE ALL'INIZIO.
             </a>
         </div>

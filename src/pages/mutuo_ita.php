@@ -12,7 +12,7 @@ include_once("../include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_very_large">
-        <img src="/images/meme/meme_mutuo/meme_mutuo_ita.png" width="1100" />
+        <img src="/images/meme/meme_mutuo/meme_mutuo_ita.png" alt="Mutuo" width="1100" />
         <br />
         * Aggiornato a tempistiche attuali
     </div>

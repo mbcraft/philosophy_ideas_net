@@ -7,18 +7,18 @@ $keywords = "meme, divertimento";
 
 ob_start();
 ?>
-<h1>
-	Questi sono i link attualmente disponbili. I nuovi meme vengono aggiunti in fondo alla lista. Raccomando la visualizzazione di <b>non pi&ugrave; di un meme</b> al giorno e di <b>seguire l'ordine</b> partendo dal primo. Col passare del tempo alcuni meme potrebbero diventare deprecati.<br />
-	Se visualizzate i meme su smartphone ruotare il telefono potrebbe migliorarne la visualizzazione. Questi meme non sono un modo per offendere aziende o persone in essi coinvolti. <b>NOTA : fate attenzione comunque ad eventuali crisi respiratorie, a me personalmente in certi casi hanno fatto ridere tantissimo. Non mi assumi responsabilit&agrave; per problemi derivanti da eccessi di risate. Sono indicati se vi sentite abbastanza depressi.</b> Questi meme sono inseriti qui A SCOPO PUBBLICITARIO in quanto non posso permettermi altro.
-	<br />
-	Questi meme rappresentano i disastri nella mia vita. In un certo senso sono anche quelli nella vita di altre persone pi&ugrave; o meno mie coetanee, solo visti da un'angolatura differente.
+<p>
+	Questi sono i link attualmente disponibili. I nuovi meme vengono aggiunti in fondo alla lista. Raccomando la visualizzazione di <b>non più di un meme</b> al giorno e di <b>seguire l'ordine</b> partendo dal primo. Col passare del tempo alcuni meme potrebbero diventare deprecati.<br />
+	Se visualizzate i meme su smartphone ruotare il telefono potrebbe migliorarne la visualizzazione. Questi meme non sono un modo per offendere aziende o persone in essi coinvolti. <b>NOTA: fate attenzione comunque ad eventuali crisi respiratorie, a me personalmente in certi casi hanno fatto ridere tantissimo. Non mi assumo responsabilità per problemi derivanti da eccessi di risate. Sono indicati se vi sentite abbastanza depressi.</b> Questi meme sono inseriti qui A SCOPO PUBBLICITARIO in quanto non posso permettermi altro.<br />
+	Questi meme rappresentano i disastri nella mia vita. In un certo senso sono anche quelli nella vita di altre persone più o meno mie coetanee, solo visti da un'angolatura differente.
+</p>
 <span class="brief">
 	<ul>
 		<li><a href="/pages/anti_gravita_ita.php">1 - DEPRECATO</a></li>
 		<li><a href="/pages/cc_toilette_ita.php">2</a></li>
 		<li><a href="/pages/fango_positivo_vita_ita.php">3</a></li>
 		<li><a href="/pages/formitrol_ita.php">4</a></li>
-	    <li><a href="/pages/fossile_ita.php">5</a></li>
+		<li><a href="/pages/fossile_ita.php">5</a></li>
 		<li><a href="/pages/ill_be_back.php">6</a></li>
 		<li><a href="/pages/ira_riso.php">7</a></li>
 		<li><a href="/pages/meme_10_vignette.php">8</a></li>
@@ -58,24 +58,21 @@ ob_start();
 		<li><a href="/pages/meme_feed_cat_ita.php">42</a></li>
 	</ul>
 </span>
-</h2>
 <hr />
 <h1>+ Gaming +</h1>
 <h2>- Shadow of the Tomb Raider</h2>
-<h2>Testi e dialoghi del gioco in inglese e commenti in italiano. Sono richieste un po' di nozioni di Inglese per capire i testi e i dialoghi del gioco ...</h2>
-<h2>
-	<span class="brief">
-		<ul>
-			<li><a href="https://youtu.be/uqdvqVpVXck">1</a></li>
-			<li><a href="https://youtu.be/Dn1qDSJRkGw">2</a></li>
-			<li><a href="https://youtu.be/2o7yXxMOJ78">3</a></li>
-			<li><a href="https://youtu.be/ndcOIBHr8s4">4</a></li>
-			<li><a href="https://youtu.be/gymFUNKjZIc">5</a></li>
-			<li><a href="https://youtu.be/yYUn6PtSOg0">6</a></li>
-			<li>...</li>
-		</ul>
-	</span>
-</h2>
+<p>Testi e dialoghi del gioco in inglese e commenti in italiano. Sono richieste un po' di nozioni di Inglese per capire i testi e i dialoghi del gioco ...</p>
+<span class="brief">
+	<ul>
+		<li><a href="https://youtu.be/uqdvqVpVXck">1</a></li>
+		<li><a href="https://youtu.be/Dn1qDSJRkGw">2</a></li>
+		<li><a href="https://youtu.be/2o7yXxMOJ78">3</a></li>
+		<li><a href="https://youtu.be/ndcOIBHr8s4">4</a></li>
+		<li><a href="https://youtu.be/gymFUNKjZIc">5</a></li>
+		<li><a href="https://youtu.be/yYUn6PtSOg0">6</a></li>
+		<li>...</li>
+	</ul>
+</span>
 <?php
 
 $content = ob_get_contents();

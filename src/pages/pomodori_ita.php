@@ -12,17 +12,17 @@ include_once("../include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_very_large">
-        <img src="/images/meme/meme_pomodori/ita/1.jpg" width="600"/>
+        <img src="/images/meme/meme_pomodori/ita/1.jpg" alt="Pomodori 1" width="600"/>
         <hr />
-        <img src="/images/meme/meme_pomodori/ita/2.jpg" width="600"/>
+        <img src="/images/meme/meme_pomodori/ita/2.jpg" alt="Pomodori 2" width="600"/>
         <hr />
-        <img src="/images/meme/meme_pomodori/ita/3.jpg" />
+        <img src="/images/meme/meme_pomodori/ita/3.jpg" alt="Pomodori 3" />
         <hr />
-        <img src="/images/meme/meme_pomodori/ita/4.jpg" />
+        <img src="/images/meme/meme_pomodori/ita/4.jpg" alt="Pomodori 4" />
         <hr />
-        <img src="/images/meme/meme_pomodori/ita/5.jpg" />
+        <img src="/images/meme/meme_pomodori/ita/5.jpg" alt="Pomodori 5" />
         <hr />
-        <img src="/images/meme/meme_pomodori/ita/6.jpg" />
+        <img src="/images/meme/meme_pomodori/ita/6.jpg" alt="Pomodori 6" />
         <br />
         <br />
         PS : alla fine mancava solo un po' di sale nel sugo ...

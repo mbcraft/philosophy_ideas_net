@@ -12,7 +12,7 @@ include_once("../include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_very_large">
-        <img src="/images/meme/meme_dont_bear_false_witness/meme_dont_bear_false_witness_ita.png" width="1100"/>
+        <img src="/images/meme/meme_dont_bear_false_witness/meme_dont_bear_false_witness_ita.png" alt="Dont Bear False Witness" width="1100"/>
     </div>
 </div>
 <?php

@@ -13,7 +13,7 @@ include_once("../include/top_poem.php");
 <div id="main_content" class="content">
     <div class="box_very_large">
     	<div align="center">
-        	<img src="/images/meme/meme_matrix_air/meme_camorra_is_in_the_air_ita.png" width="1100"/>
+        	<img src="/images/meme/meme_matrix_air/meme_camorra_is_in_the_air_ita.png" alt="Camorra Is In The Air" width="1100"/>
     	</div>
         <br />
         Nota : questo meme &egrave; solo una moderna rilettura del film "Matrix".

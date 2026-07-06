@@ -14,7 +14,7 @@ include_once("../include/top_poem.php");
     <div class="box_very_large">
         <h3>La mia vita da no-vax ...</h3>
     	<div align="center">
-        	<img src="/images/meme/meme_no_vax/meme_no_vax_ita.jpg" width="600"/>
+        	<img src="/images/meme/meme_no_vax/meme_no_vax_ita.jpg" alt="No Vax" width="600"/>
     	</div>
     </div>
 </div>

@@ -16,7 +16,7 @@ $poems = array(
 
 $poem = $poems[rand(0,sizeof($poems)-1)];
 
-if ($_SESSION['LANG']=="it") {
+if (isset($_SESSION['LANG']) && $_SESSION['LANG']=="it") {
 ?>
         <div id="top_poem" class="w3-padding">
             <h3><em>"<?=$poem ?>" -Marco (poesia)</em></h3>

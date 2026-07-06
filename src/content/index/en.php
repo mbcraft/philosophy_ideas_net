@@ -16,17 +16,20 @@ require_once (DIR_PREFIX."include/site_variables.php");
     <br />
 
     <br />
-    <a href="/about.php">More informations</a>
+    <a href="/about.php?lang=en">More informations</a>
+    <br />
+    <br />
+    <strong>THIS WEBSITE CONTAINS NO ADVERTISING, NAVIGATION IS FAST AND LIGHTWEIGHT</strong>
     <br />
     <div style="padding-top:40px;"><h3>Choose your favorite background :</h3></div>
-    <?php 
-        include('_background_list.php'); 
+    <?php
+        include('_background_list.php');
 
         if (!$is_open) {
     ?>
     <span style="font-size: 40px;font-weight: bold;">DO NOT ENTER !</span>
     <br />
-    <img src="/images/misc/skull_and_bones.png" width="100"/>
+    <img src="/images/misc/skull_and_bones.png" alt="Skull And Bones" width="100"/>
     <br />
     <span style="font-size: 20px;font-weight: bold;">( THIS INTERNET SITE IS CLOSED )</span>
     <br />
@@ -45,7 +48,7 @@ require_once (DIR_PREFIX."include/site_variables.php");
 </div>
     <br />
     <div align="center">
-    <h4>Last update : 11 May 2026</h4>
+    <h4>Last update : 2 July 2026</h4>
     </div>
     <br />
     <br />

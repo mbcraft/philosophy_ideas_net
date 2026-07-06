@@ -12,7 +12,7 @@ include_once("../include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_very_large">
-        <img src="/images/meme/meme_god_against_ash/meme_god_against_ash_ita.png" width="1100"/>
+        <img src="/images/meme/meme_god_against_ash/meme_god_against_ash_ita.png" alt="God Against Ash" width="1100"/>
         <br />
         <br />
         PS : Goku ha teletrasportato via Pikachu un attimo prima che la bomba esplodesse. Ash &egrave; diventato ash e sar&agrave; reincarnato in un geranio.

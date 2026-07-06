@@ -2,6 +2,7 @@
 
 
 require_once('include/lang.php');
+include_once("include/visit_counter.php");
 
 if (!defined("PROJECT_DIR"))
 define("PROJECT_DIR",__DIR__);
@@ -27,11 +28,7 @@ include_once("include/top_poem.php");
                     $letter = $parts[0];
                     $element_number = $parts[1];
 
-                    echo "<h2>";
                     echo get_element_content($lang,$element);
-                    echo "</h2>";
-                    
-                    echo $content;
 
                     if (filter_input(INPUT_GET,"with_back_to_results")==="true") include("include/back_to_search_results.php");
                     else include_once("include/back_to_philosophy_search_page.php");
@@ -46,19 +43,18 @@ include_once("include/top_poem.php");
                     $no_results = $r["no_results"];
                     $current_result_list = $r["result_set"];
 
-                    echo "<h2>";
                     if ($no_results) {
                         if ($lang=="it") {
-                            echo "Non sono stati trovati risultati.";
+                            echo "<p>Non sono stati trovati risultati.</p>";
                         } else {
-                            echo "No results found.";
+                            echo "<p>No results found.</p>";
                         }
                     } else {
                         if ($lang=="it") {
-                            echo "Risultati della ricerca : ";
+                            echo "<p>Risultati della ricerca:</p>";
                         } else {
-                            echo "Results of search : ";
-                        }  
+                            echo "<p>Results of search:</p>";
+                        }
                         echo "<ul>";
                         $searched_words = strtolower(filter_input(INPUT_GET,"search_query"));
                         $word_list = explode(" ",$searched_words);
@@ -68,10 +64,10 @@ include_once("include/top_poem.php");
 
                             $start = 0;
                             $end = strlen($element_content)-1;
-                            
+
                             foreach ($word_list as $word) {
                                 $p = strpos($element_content,$word);
-                                if ($p!==false) { 
+                                if ($p!==false) {
 
                                     $start = $p-60;
                                     $end = $p + strlen($word)+60;
@@ -86,10 +82,8 @@ include_once("include/top_poem.php");
                             echo "<a href='/".$lang."/philosophy/".$element.".php?with_back_to_results=true'>".$element."</a> - ".$element_extract;
                             echo "</li>";
                         }
-                        echo "</li>";
                         echo "</ul>";
                     }
-                    echo "</h2>";
                     include_once("include/back_to_philosophy_search_page.php");  
                     
                 }
@@ -108,9 +102,7 @@ include_once("include/top_poem.php");
                 }
                 
             } else {
-                echo "<h2>";
                 echo $search_interface;
-                echo "</h2>";
             }
         ?>
     </div>

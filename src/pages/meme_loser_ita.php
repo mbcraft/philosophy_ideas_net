@@ -13,7 +13,7 @@ include_once("../include/top_poem.php");
 <div id="main_content" class="content">
     <div align="center" class="box_very_large" style="text-align:center;">
         <h2>"La rabbia del perdente"</h2>
-        <img src="/images/meme/meme_loser/loser_rage.png" width="600"/>
+        <img src="/images/meme/meme_loser/loser_rage.png" alt="Loser Rage" width="600"/>
     </div>
 </div>
 <?php

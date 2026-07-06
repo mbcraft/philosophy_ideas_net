@@ -1,21 +1,27 @@
 <?php
 
-$parts = explode('_',$element);
-
 $letter_series = array('H','A','B','C','D','T','Z');
-
-$letter = $parts[0];
-$number = $parts[1];
-
-$previous_element = str_pad($number - 1, 3, '0', STR_PAD_LEFT);
-$next_element = str_pad($number + 1, 3, '0', STR_PAD_LEFT);
-
-$current_range = $ranges_by_letter[$letter];
 
 $is_search_with_words = filter_input(INPUT_GET, "mode")=="search_with_words";
 
-$is_previous_show = $number > 1 && !$is_search_with_words;
-$is_next_show = $number < $current_range[2] - 1 && !$is_search_with_words;
+if (isset($element) && $element) {
+    $parts = explode('_', $element);
+    $letter = $parts[0];
+    $number = $parts[1];
+    $previous_element = str_pad($number - 1, 3, '0', STR_PAD_LEFT);
+    $next_element = str_pad($number + 1, 3, '0', STR_PAD_LEFT);
+    $current_range = isset($ranges_by_letter[$letter]) ? $ranges_by_letter[$letter] : null;
+    $is_previous_show = $number > 1 && !$is_search_with_words;
+    $is_next_show = $current_range && $number < $current_range[2] - 1 && !$is_search_with_words;
+} else {
+    $letter = null;
+    $number = null;
+    $previous_element = null;
+    $next_element = null;
+    $current_range = null;
+    $is_previous_show = false;
+    $is_next_show = false;
+}
 
 //$lang is defined
 

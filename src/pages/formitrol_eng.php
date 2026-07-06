@@ -12,7 +12,7 @@ include_once("../include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_very_large">
-        <img src="/images/meme/meme_formitrol/meme_formitrol_eng.jpg" width="1100"/>
+        <img src="/images/meme/meme_formitrol/meme_formitrol_eng.jpg" alt="Formitrol" width="1100"/>
     </div>
 </div>
 <?php

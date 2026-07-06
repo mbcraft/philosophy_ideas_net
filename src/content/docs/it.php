@@ -7,9 +7,8 @@ $keywords = "files, download, documenti, visualizzazione";
 
 ob_start();
 ?>
-  <h3>
 <div align='left'>
-  
+
     <h2>Piccoli spunti</h2>
     <ul>
         <li>Il gioco dei pacchi - regolamento - Versione 1.0 (<a href="/downloads/il_gioco_dei_pacchi.pdf">VISUALIZZA</a> - <a href="/downloads/il_gioco_dei_pacchi.pdf" download="">DOWNLOAD  [HTML]</a>)</li>
@@ -134,9 +133,9 @@ ob_start();
     </ul>
     <hr />
     <hr />
-    Ebook in vendita su Amazon (si possono leggere anche tramite
+    <p>Ebook in vendita su Amazon (si possono leggere anche tramite
     browser su computer) (leggere sempre la descrizione prima di
-    valutare l'acquisto) :
+    valutare l'acquisto):</p>
     <ul>
         <li><a href="https://amzn.eu/d/c0GeQvq">Pensieri in pillole - 1 -
         Le tipologie di percezioni del corpo umano</a></li>
@@ -153,9 +152,8 @@ ob_start();
         <li><a href="https://amzn.eu/d/04ThU9HA">Pensieri in pillole - 7 -
         Le piante in vaso - Appunti vari</a></li>
     </ul>
-   
+
 </div>
- </h3>
 <?php
 $content = ob_get_contents();
 ob_end_clean();

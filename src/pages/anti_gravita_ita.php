@@ -11,7 +11,7 @@ include_once("../include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_very_large">
-        <img src="/images/meme/meme_anti_g/meme_anti_gravita_ita.jpg" width="1100"/>
+        <img src="/images/meme/meme_anti_g/meme_anti_gravita_ita.jpg" alt="Anti Gravita" width="1100"/>
     </div>
 </div>
 <?php
