@@ -101,10 +101,10 @@ function echo_generic_small_page_button($javascript_action,$background_image,$te
     }
 }
 
-function echo_empty_small_placeholder() {
+function echo_empty_small_placeholder($additional_class = '') {
 	?>
-        <div class='small_placeholder'>
-        	
+        <div class='small_placeholder <?=$additional_class ?>'>
+
         </div>
 	<?php
 }

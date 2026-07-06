@@ -26,20 +26,20 @@ if (isset($element) && $element) {
 //$lang is defined
 
 ?>
-<div align="center">
+<div align="center" class="nav_buttons_row">
     <?php
     if ($is_previous_show) {
     ?>
-    <div align="left" class='s5 m4 l3 w3-margin' style="display:inline-block;vertical-align: middle;">
+    <div align="left" class='s5 m4 l3 w3-margin nav_prev_cell' style="display:inline-block;vertical-align: middle;">
             <?php
                 echo_generic_small_page_button("document.location.href='/".$lang."/philosophy/".$letter."_".$previous_element.".php?with_back_to_results=false';","back_to_search_button_background.jpg","white","Precedente","Previous");
             ?>
     </div>
     <?php
     }
-    else echo_empty_small_placeholder();
+    else echo_empty_small_placeholder("nav_prev_cell");
     ?>
-    <div align="center" class='s6 m5 l4 w3-margin' style="display:inline-block; vertical-align: middle;">
+    <div align="center" class='s6 m5 l4 w3-margin nav_center_cell' style="display:inline-block; vertical-align: middle;">
             <?php
                 echo_generic_big_page_button("document.location.href='/".$lang."/philosophy.php';","back_to_search_button_background.jpg","white","Torna alla ricerca","Back to search");
             ?>
@@ -47,7 +47,7 @@ if (isset($element) && $element) {
     <?php
     if ($is_next_show) {
     ?>
-    <div align="right" class='s5 m4 l3 w3-margin' style="display:inline-block; vertical-align: middle;">
+    <div align="right" class='s5 m4 l3 w3-margin nav_next_cell' style="display:inline-block; vertical-align: middle;">
             <?php
 
 
@@ -56,10 +56,10 @@ if (isset($element) && $element) {
     </div>
     <?php
     }
-    else echo_empty_small_placeholder();
+    else echo_empty_small_placeholder("nav_next_cell");
     ?>
 </div>
-<div align="center">
+<div align="center" class="letter_buttons_row">
     <?php
         echo_generic_very_small_page_button("document.location.href='/".$lang."/philosophy/H_001.php?with_back_to_results=false';","back_to_search_button_background.jpg","white","[ H ]","[ H ]","v_1");
     ?>
