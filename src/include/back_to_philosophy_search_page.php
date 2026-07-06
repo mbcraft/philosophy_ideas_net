@@ -30,7 +30,7 @@ if (isset($element) && $element) {
     <?php
     if ($is_previous_show) {
     ?>
-    <div align="left" class='s5 m4 l3 w3-margin nav_prev_cell' style="display:inline-block;vertical-align: middle;">
+    <div align="left" class='s5 m4 l3 nav_prev_cell' style="display:inline-block;vertical-align: middle;">
             <?php
                 echo_generic_small_page_button("document.location.href='/".$lang."/philosophy/".$letter."_".$previous_element.".php?with_back_to_results=false';","back_to_search_button_background.jpg","white","Precedente","Previous");
             ?>
@@ -39,7 +39,7 @@ if (isset($element) && $element) {
     }
     else echo_empty_small_placeholder("nav_prev_cell");
     ?>
-    <div align="center" class='s6 m5 l4 w3-margin nav_center_cell' style="display:inline-block; vertical-align: middle;">
+    <div align="center" class='s6 m5 l4 nav_center_cell' style="display:inline-block; vertical-align: middle;">
             <?php
                 echo_generic_big_page_button("document.location.href='/".$lang."/philosophy.php';","back_to_search_button_background.jpg","white","Torna alla ricerca","Back to search");
             ?>
@@ -47,7 +47,7 @@ if (isset($element) && $element) {
     <?php
     if ($is_next_show) {
     ?>
-    <div align="right" class='s5 m4 l3 w3-margin nav_next_cell' style="display:inline-block; vertical-align: middle;">
+    <div align="right" class='s5 m4 l3 nav_next_cell' style="display:inline-block; vertical-align: middle;">
             <?php
 
 

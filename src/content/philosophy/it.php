@@ -10,7 +10,7 @@ ob_start();
 <div align="center">
 	<a href="/<?= $lang ?>/philosophy/H_001.php?with_back_to_results=false">Leggi prima gli elementi 'H'</a> prima di consultare gli altri.
 	<br />
-	Elementi disponibili:
+	Intervalli di elementi disponibili:
 	<?php
 	print_available_ranges($all_ranges);
 	?>

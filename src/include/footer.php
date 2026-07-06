@@ -31,7 +31,7 @@ function print_footer($elements) {
 ?>
 <footer>
     <div class="footer">
-        <div style="padding-top:32px;padding-bottom:32px;">
+        <div style="padding-top:12px;padding-bottom:12px;">
             <div style="display: inline-block;">
                 <a href="https://www.facebook.com/marco.bagnaresi">
                     <img src="/images/icons/facebook_icon2.png" alt="facebook icon" width="48" height="48" />
@@ -51,12 +51,9 @@ function print_footer($elements) {
                     <img src="/images/icons/telegram_icon.png" alt="telegram icon" width="48" height="48" />
                 </a>
             </div>
-        </div> 
+        </div>
         <h3>
-
-        <br />
-        <b><a href="/<?=$lang ?>/index.php"><?= $welcome_page[$lang] ?></a></b><br />
-        <br /><br />
+        <b><a href="/<?=$lang ?>/index.php"><?= $welcome_page[$lang] ?></a></b>
         </h3>
         <h4>
         <?php
