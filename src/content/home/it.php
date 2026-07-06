@@ -22,6 +22,15 @@ ob_start();
 	<li><strong>Lista completa</strong> — puoi sfogliare tutti gli elementi disponibili tramite il link apposito nella pagina.</li>
 	<li><strong>Elenco completo</strong> — puoi visualizzare il contenuto di tutti gli elementi da un'unica pagina, elencati uno dopo l'altro.</li>
 </ul>
+<hr />
+<div style="text-align:left;">
+	API disponibili per sviluppatori:
+	<ul>
+		<li>Versione 1.0 - <a href="/api/v1.0/get_api_calls_specification.php">Specifiche</a> (formato JSON)</li>
+		<li>Versione 1.1 - <a href="/api/v1.1/get_api_calls_specification.php">Specifiche</a> (formato JSON)</li>
+		<li>Versione 1.2 - <a href="/api/v1.2/get_api_calls_specification.php">Specifiche</a> (formato JSON) - (<a href="/api/v1.2/sample.html">esempio embed</a>)</li>
+	</ul>
+</div>
 <!--
 <hr />
 <h2>Ultime modifiche</h2>

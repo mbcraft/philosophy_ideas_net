@@ -106,6 +106,38 @@
     background-position-y: -100px;
 }
 
+.unified_search_group {
+    display: inline-flex;
+    width: 100%;
+    max-width: 420px;
+}
+
+.unified_search_group input[type="text"] {
+    flex: 1 1 auto;
+    min-width: 0;
+    padding: 10px 12px;
+    border: 1px solid #999;
+    border-right: none;
+    border-radius: 6px 0 0 6px;
+    font-size: 14px;
+}
+
+.unified_search_group button {
+    flex: 0 0 auto;
+    padding: 10px 20px;
+    border: 1px solid #2c3e50;
+    border-radius: 0 6px 6px 0;
+    background-color: #2c3e50;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.unified_search_group button:hover {
+    background-color: #1a252f;
+}
+
 .nav_buttons_row,
 .letter_buttons_row {
     display: flex;

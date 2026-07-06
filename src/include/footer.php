@@ -23,7 +23,7 @@ $welcome_page = array("it" => "Pagina di benvenuto",
 
 function print_footer($elements) {
     foreach ($elements as $el) {
-        echo "<div style='padding-top:10px;padding-bottom:10px;'>";
+        echo "<div class='footer_credit_line'>";
         echo $el;
         echo "</div>";
     }
@@ -31,7 +31,7 @@ function print_footer($elements) {
 ?>
 <footer>
     <div class="footer">
-        <div style="padding-top:12px;padding-bottom:12px;">
+        <div class="footer_social_row">
             <div style="display: inline-block;">
                 <a href="https://www.facebook.com/marco.bagnaresi">
                     <img src="/images/icons/facebook_icon2.png" alt="facebook icon" width="48" height="48" />
@@ -52,15 +52,14 @@ function print_footer($elements) {
                 </a>
             </div>
         </div>
-        <h3>
+        <h3 class="footer_welcome_heading">
         <b><a href="/<?=$lang ?>/index.php"><?= $welcome_page[$lang] ?></a></b>
         </h3>
-        <h4>
+        <h4 class="footer_credits_heading">
         <?php
             print_footer($footer[$lang]);
         ?>
         </h4>
-        <div style="width:100%;height:50px;"></div>
+        <div class="footer_bottom_spacer"></div>
     </div>
-    <br />
 </footer>

@@ -22,6 +22,15 @@ ob_start();
 	<li><strong>Full list</strong> — you can browse all available elements via the dedicated link on the page.</li>
 	<li><strong>Complete listing</strong> — you can view the content of all elements on a single page, listed one after another.</li>
 </ul>
+<hr />
+<div style="text-align:left;">
+	API available for developers:
+	<ul>
+		<li>Version 1.0 - <a href="/api/v1.0/get_api_calls_specification.php">Specifications</a> (JSON format)</li>
+		<li>Version 1.1 - <a href="/api/v1.1/get_api_calls_specification.php">Specifications</a> (JSON format)</li>
+		<li>Version 1.2 - <a href="/api/v1.2/get_api_calls_specification.php">Specifications</a> (JSON format) - (<a href="/api/v1.2/sample.html">embed sample</a>)</li>
+	</ul>
+</div>
 <!--
 <hr />
 <h2>Last changes</h2>
