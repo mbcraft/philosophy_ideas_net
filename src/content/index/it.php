@@ -38,8 +38,8 @@ require_once (DIR_PREFIX."include/site_variables.php");
 
     <a href="/it/home.php">Entra senza usare uno sfondo</a>
     
-    <br /><br />oppure<br /><br />
-    <div style="padding-top:40px;"><h3>Scegli lo sfondo che preferisci :</h3></div>
+    <br /><br />oppure
+    <div style="padding-top:20px;"><h3>Scegli lo sfondo che preferisci :</h3></div>
     <?php
         include('_background_list.php');
     ?>

@@ -38,15 +38,15 @@ require_once (DIR_PREFIX."include/site_variables.php");
 
     <a href="/en/home.php">Enter without using a background</a>
     
-    <br /><br />or<br /><br />
-    <div style="padding-top:40px;"><h3>Choose your favorite background :</h3></div>
+    <br /><br />or
+    <div style="padding-top:20px;"><h3>Choose your favorite background :</h3></div>
     <?php
         include('_background_list.php');
     ?>
 
     <form method="POST" name="background_enter_form" action="/en/home.php">
         <input id="BACKGROUND" type="hidden" name="BACKGROUND" value="white" />
-        <input class="enter_button" type="submit" value="Entra" />
+        <input class="enter_button" type="submit" value="Enter" />
     </form>
     <?php
         }
