@@ -21,11 +21,8 @@ require_once (DIR_PREFIX."include/site_variables.php");
     <br />
     <strong>THIS WEBSITE CONTAINS NO ADVERTISING, NAVIGATION IS FAST AND LIGHTWEIGHT</strong>
     <br />
-    <div style="padding-top:40px;"><h3>Choose your favorite background :</h3></div>
     <?php
-        include('_background_list.php');
-
-        if (!$is_open) {
+    if (!$is_open) {
     ?>
     <span style="font-size: 40px;font-weight: bold;">DO NOT ENTER !</span>
     <br />
@@ -35,16 +32,25 @@ require_once (DIR_PREFIX."include/site_variables.php");
     <br />
     <?php
         }
+        else { 
     ?>
+    <br />
+
+    <a href="/en/home.php">Enter without using a background</a>
+    
+    <br /><br />or<br /><br />
+    <div style="padding-top:40px;"><h3>Choose your favorite background :</h3></div>
+    <?php
+        include('_background_list.php');
+    ?>
+
     <form method="POST" name="background_enter_form" action="/en/home.php">
         <input id="BACKGROUND" type="hidden" name="BACKGROUND" value="white" />
-        <input class="enter_button" type="submit" value="Enter" <?=$is_open ? '' : 'disabled'?>/>
+        <input class="enter_button" type="submit" value="Entra" />
     </form>
-    <?php if ($is_open) { ?>
-        <br />
-    or<br /><br />
-    <a href="/en/home.php">Enter without choosing the background</a>
-    <?php } ?>
+    <?php
+        }
+    ?>
 </div>
     <br />
     <div align="center">

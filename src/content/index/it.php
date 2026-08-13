@@ -21,11 +21,8 @@ require_once (DIR_PREFIX."include/site_variables.php");
     <br />
     <strong>QUESTO SITO NON CONTIENE PUBBLICITÀ, LA NAVIGAZIONE È AGILE E LEGGERA</strong>
     <br />
-    <div style="padding-top:40px;"><h3>Scegli lo sfondo che preferisci :</h3></div>
     <?php
-        include('_background_list.php');
-
-        if (!$is_open) {
+    if (!$is_open) {
     ?>
     <span style="font-size: 40px;font-weight: bold;">NON ENTRARE !</span>
     <br />
@@ -35,16 +32,25 @@ require_once (DIR_PREFIX."include/site_variables.php");
     <br />
     <?php
         }
+        else { 
     ?>
+    <br />
+
+    <a href="/it/home.php">Entra senza usare uno sfondo</a>
+    
+    <br /><br />oppure<br /><br />
+    <div style="padding-top:40px;"><h3>Scegli lo sfondo che preferisci :</h3></div>
+    <?php
+        include('_background_list.php');
+    ?>
+
     <form method="POST" name="background_enter_form" action="/it/home.php">
         <input id="BACKGROUND" type="hidden" name="BACKGROUND" value="white" />
-        <input class="enter_button" type="submit" value="Entra" <?=$is_open ? '' : 'disabled'?>/>
+        <input class="enter_button" type="submit" value="Entra" />
     </form>
-    <?php if ($is_open) { ?>
-    <br />
-    oppure<br /><br />
-    <a href="/it/home.php">Entra senza scegliere lo sfondo</a>
-    <?php } ?>
+    <?php
+        }
+    ?>
 </div>
     <br />
     <div align="center">
