@@ -28,10 +28,6 @@ ob_start();
         <li>Doppio crescione dolce - ricetta - versione 1.3 (<a href="/downloads/doppio_crescione_dolce.pdf">VISUALIZZA</a> - <a href=
         "/downloads/doppio_crescione_dolce.pdf" download>DOWNLOAD
          [PDF]</a>)</li>
-        <li>Struttura per la protezione da alberi in caduta - versione 1.0
-        (<a href="/downloads/struttura_protezione_da_alberi_in_caduta_ita.pdf">VISUALIZZA</a>
-        - <a href="/downloads/struttura_protezione_da_alberi_in_caduta_ita.pdf"
-        download>DOWNLOAD  [PDF]</a>)</li>
         <li>Cucina in due fasi - versione 1.1 (<a href="/downloads/cucina_in_due_fasi.html">VISUALIZZA</a> - <a href="/downloads/cucina_in_due_fasi.html" download="">DOWNLOAD  [HTML]</a>)</li>
         
         <li>Cerimonie - versione 1.5 (<a href="/downloads/cerimonie.html">VISUALIZZA</a> - <a href=
@@ -50,13 +46,10 @@ ob_start();
         Versione 2.0 (<a href="/downloads/litterpicking_guidelines_2_0_ita.pdf" download>DOWNLOAD  [PDF]</a>) (<a href="/downloads/litterpicking_guidelines_2_0_ita.odt" download>DOWNLOAD  [ODT]</a>)</li>
         <li>Introduzione alla meditazione - versione 2.0 (<a href="/downloads/introduzione_alla_meditazione.html">VISUALIZZA</a> -
         <a href="/downloads/introduzione_alla_meditazione.html" download>DOWNLOAD  [HTML]</a>)</li>
-        <li>Tubature per la luce - versione 1.1 (<a href="/downloads/tubature_per_la_luce.html">VISUALIZZA</a> - <a href="/downloads/tubature_per_la_luce.html" download="">DOWNLOAD  [HTML]</a>)</li>
         <li>Giochi all'aperto - Versione 1.2 (<a href="/downloads/giochi_all_aperto.html">VISUALIZZA</a> - <a href="/downloads/giochi_all_aperto.html" download="">DOWNLOAD  [HTML]</a>)</li>
         <li>Concept per un carro raccolta elettrico (<a href="/downloads/concept_carro_raccolta_elettrico.html">VISUALIZZA</a> -
         <a href="/downloads/concept_carro_raccolta_elettrico.html"
         download="">DOWNLOAD</a>)</li>
-        <li>Concept per delle nuvole ombra artificiali (<a href="/downloads/nuvole_ombra_artificiali.html">VISUALIZZA</a> -
-        <a href="/downloads/nuvole_ombra_artificiali.html" download>DOWNLOAD</a>)</li>
         <li>Concept per la realizzazione di un sistema per la pulizia delle
         fognatura da intasamenti di fango - Versione 1.1 (<a href=
         "/downloads/concept_sistema_robot_pulizia_fognature.html">VISUALIZZA</a>
@@ -79,12 +72,6 @@ ob_start();
         - <a href=
         "/downloads/concept_banco_riciclaggio_elettrodomestici.html"
         download="">DOWNLOAD</a>) - Versione 1</li>
-        <li>Concept per uno strumento per il pettinamento degli alberi
-        innevati (<a href=
-        "/downloads/concept_strumento_pettinamento_alberi_innevati.html">VISUALIZZA</a>
-        - <a href=
-        "/downloads/concept_strumento_pettinamento_alberi_innevati.html"
-        download="">DOWNLOAD</a>)</li>
         <li>Idea per un centro di gestione e stoccaggio legnami - CGSL -
         Versione 1.3 (<a href=
         "/downloads/centro_gestione_stoccaggio_legnami.html">VISUALIZZA</a>
@@ -102,16 +89,6 @@ ob_start();
         - <a href="/downloads/deposito_condiviso_attrezzi_e_strumenti.html"
         download="">DOWNLOAD</a>)</li>
         <li>Analisi dei sistemi di trasporto pubblici e possibile soluzione per migliorarne l'utilizzo - Versione 1.0 (<a href="/downloads/analisi_sistemi_trasporto.html">VISUALIZZA</a> - <a href="/downloads/analisi_sistemi_trasporto.html" download="">DOWNLOAD</a>)</li>
-        <li>Concept per un carro raccolta per la frutta delle food forest - Versione 1.0 (<a href=
-        "/downloads/concept_carro_raccolta_frutta_food_forest.html">VISUALIZZA</a>
-        - <a href=
-        "/downloads/concept_carro_raccolta_frutta_food_forest.html"
-        download="">DOWNLOAD</a>)</li>
-        <li>Idea per la consegna del cibo a domicilio - Versione 1.0 (<a href=
-        "/downloads/idea_gestione_consegna_cibo_domicilio_standardizzata.html">VISUALIZZA</a>
-        - <a href=
-        "/downloads/idea_gestione_consegna_cibo_domicilio_standardizzata.html"
-        download="">DOWNLOAD</a>)</li>
     </ul>
     <hr />
     <ul>
