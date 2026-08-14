@@ -1,1 +1,1 @@
-A_366 - Nelle coppie, quando si dorme insieme generalmente &egrave; meglio non spogliarsi del tutto perch&egrave; quello che succede &egrave; che si cominciano rapporti sessuali "involontariamente", pertanto &egrave; meglio almeno saperlo in modo da potersi tutelare.
+A_366 - Nelle coppie, quando si dorme insieme generalmente &egrave; meglio non spogliarsi del tutto perch&eacute; quello che succede &egrave; che si cominciano rapporti sessuali "involontariamente", pertanto &egrave; meglio almeno saperlo in modo da potersi tutelare.

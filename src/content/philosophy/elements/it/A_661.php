@@ -1,1 +1,1 @@
-A_661 - E' particolarmente indicato fare le coccole sulla pancia delle partorienti, perch&egrave; in questo modo esse sono recepite anche dal nascituro.
+A_661 - E' particolarmente indicato fare le coccole sulla pancia delle partorienti, perch&eacute; in questo modo esse sono recepite anche dal nascituro.
