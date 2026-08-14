@@ -34,6 +34,8 @@ ob_start();
 <!--
 <hr />
 <h2>Last changes</h2>
+14 August 2026 - Removed, updated and moved various documents in the Docs section. Modified A_049, A_061, A_122, A_143, A_197, A_216, A_284, A_300, A_423, A_521, A_583, A_647, H_011.
+<br /><br />
 11 May 2026 - Modified A_301. Added A_664.
 <br /><br />
 13 April 2026 - Replaced A_301.

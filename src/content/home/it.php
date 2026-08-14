@@ -34,6 +34,8 @@ ob_start();
 <!--
 <hr />
 <h2>Ultime modifiche</h2>
+14 Agosto 2026 - Rimossi, aggiornati e spostati vari documenti nella sezione Documenti. Modificati A_049, A_061, A_122, A_143, A_197, A_216, A_284, A_300, A_423, A_521, A_583, A_647, H_011.
+<br /><br />
 11 Maggio 2026 - Modificato A_301. Aggiunto A_664.
 <br /><br />
 13 Aprile 2026 - Sostituito A_301.
