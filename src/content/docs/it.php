@@ -27,7 +27,7 @@ ob_start();
          [PDF]</a>)</li>
         <li>Cucina in due fasi - versione 1.1 (<a href="/downloads/cucina_in_due_fasi.html">VISUALIZZA</a> - <a href="/downloads/cucina_in_due_fasi.html" download="">DOWNLOAD  [HTML]</a>)</li>
         
-        <li>Cerimonie - versione 1.5 (<a href="/downloads/cerimonie.html">VISUALIZZA</a> - <a href=
+        <li>Cerimonie - versione 1.6 (<a href="/downloads/cerimonie.html">VISUALIZZA</a> - <a href=
         "/downloads/cerimonie.html" download>DOWNLOAD 
         [HTML]</a>)</li>
         <li>Logo standard per le form di feedback da posizionare nel footer
@@ -41,9 +41,9 @@ ob_start();
     <ul>
         <li>Guida alla raccolta di rifiuti in zone urbane e extraurbane -
         Versione 2.0 (<a href="/downloads/litterpicking_guidelines_2_0_ita.pdf" download>DOWNLOAD  [PDF]</a>) (<a href="/downloads/litterpicking_guidelines_2_0_ita.odt" download>DOWNLOAD  [ODT]</a>)</li>
-        <li>Introduzione alla meditazione - versione 2.0 (<a href="/downloads/introduzione_alla_meditazione.html">VISUALIZZA</a> -
+        <li>Introduzione alla meditazione - versione 2.1 (<a href="/downloads/introduzione_alla_meditazione.html">VISUALIZZA</a> -
         <a href="/downloads/introduzione_alla_meditazione.html" download>DOWNLOAD  [HTML]</a>)</li>
-        <li>Giochi all'aperto - Versione 1.2 (<a href="/downloads/giochi_all_aperto.html">VISUALIZZA</a> - <a href="/downloads/giochi_all_aperto.html" download="">DOWNLOAD  [HTML]</a>)</li>
+        <li>Giochi all'aperto - Versione 1.3 (<a href="/downloads/giochi_all_aperto.html">VISUALIZZA</a> - <a href="/downloads/giochi_all_aperto.html" download="">DOWNLOAD  [HTML]</a>)</li>
         <li>Concept per un carro raccolta elettrico (<a href="/downloads/concept_carro_raccolta_elettrico.html">VISUALIZZA</a> -
         <a href="/downloads/concept_carro_raccolta_elettrico.html"
         download="">DOWNLOAD</a>)</li>
@@ -68,14 +68,14 @@ ob_start();
         "/downloads/concept_banco_riciclaggio_elettrodomestici.html">VISUALIZZA</a>
         - <a href=
         "/downloads/concept_banco_riciclaggio_elettrodomestici.html"
-        download="">DOWNLOAD</a>) - Versione 1</li>
+        download="">DOWNLOAD</a>) - Versione 1.1</li>
         <li>Idea per un centro di gestione e stoccaggio legnami - CGSL -
         Versione 1.3 (<a href=
         "/downloads/centro_gestione_stoccaggio_legnami.html">VISUALIZZA</a>
         - <a href="/downloads/centro_gestione_stoccaggio_legnami.html"
         download="">DOWNLOAD</a>)</li>
-        <li>Idea per una gestione parallelizzata e virtuale dei processi
-        giudiziari - Versione 1.2 (<a href=
+        <li>Idea per un sistema di arbitrato civile e commerciale gestito
+        in modo virtuale - Versione 2.0 (<a href=
         "/downloads/idea_sistema_gestione_processi_giudiziari.html">VISUALIZZA</a>
         - <a href=
         "/downloads/idea_sistema_gestione_processi_giudiziari.html"
@@ -96,10 +96,6 @@ ob_start();
 
         <li>Reportage su uso del voodoo effettuato tramite lo spargimento di immondizia (<a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">DA GOOGLE DRIVE</a>) (1.2 GB) (Varie
         lingue)</li>
-        <li>Sulle atrocit&agrave; attuali - Connessioni filosofiche (disponibile solo in Italiano) - Versione 1.1 (<a href=
-        "/downloads/sulle_atrocita_attuali_connessioni_filosofiche.html">VISUALIZZA</a>
-        - <a href="/downloads/sulle_atrocita_attuali_connessioni_filosofiche.html"
-        download="">DOWNLOAD</a>)</li>
     </ul>
     <hr />
     <hr />
