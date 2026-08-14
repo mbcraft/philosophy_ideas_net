@@ -12,12 +12,10 @@ ob_start();
     <h2>Little ideas</h2>
     <ul>
         <li>The parcel game - rules - Version 1.0 (<a href="/downloads/the_parcel_game.pdf">VIEW</a> - <a href="/downloads/the_parcel_game.pdf" download> DOWNLOAD [PDF]</a>)</li>
-        <li>Recipe for an optimal tea - (<a href="/downloads/tea_recipe.html">VIEW</a> - <a download href="/downloads/tea_recipe.html"> DOWNLOAD [HTML]</a>)</li>
         <li>Reflections about packaging production - version 1.5 - (<a href="/downloads/reflections_about_packaging_production.html">VIEW</a> - <a download href="/downloads/reflections_about_packaging_production.html"> DOWNLOAD [HTML]</a>)</li>
         <li>Experiences and considerations about plants - (<a href="/downloads/experiences_and_considerations_about_plants.html">VIEW</a> - <a href="/downloads/experiences_and_considerations_about_plants.html" download> DOWNLOAD [HTML]</a>)</li>
         
         <li>Reflections about contracts - version 1.0 (<a href="/downloads/reflections_about_contracts.html">VIEW</a> - <a href="/downloads/reflections_about_contracts.html" download> DOWNLOAD [HTML]</a>)</li>
-        <li>Riflections about nightclubs - version 1.0 (<a href="/downloads/reflections_about_nightclubs.html">VIEW</a> - <a href="/downloads/reflections_about_nightclubs.html" download> DOWNLOAD [HTML]</a>)</li>
         <li>Riflections about wood - version 1.0 (<a href="/downloads/reflections_about_wood.html">VIEW</a> - <a href="/downloads/reflections_about_wood.html" download> DOWNLOAD [HTML]</a>)</li>
         <li>Double sweet watercress - recipe - version 1.3 (<a href="/downloads/double_sweet_watercress.pdf">VIEW</a> - <a href="/downloads/double_sweet_watercress.pdf" download> DOWNLOAD [PDF]</a>)</li>
         <li>Two-step cooking - version 1.1 (<a href="/downloads/two_step_cooking.html">VIEW</a> - <a href="/downloads/two_step_cooking.html" download> DOWNLOAD [HTML]</a>)</li>

@@ -12,7 +12,6 @@ ob_start();
     <h2>Piccoli spunti</h2>
     <ul>
         <li>Il gioco dei pacchi - regolamento - Versione 1.0 (<a href="/downloads/il_gioco_dei_pacchi.pdf">VISUALIZZA</a> - <a href="/downloads/il_gioco_dei_pacchi.pdf" download="">DOWNLOAD  [HTML]</a>)</li>
-        <li>Ricetta per un ottimo thè - (<a href="/downloads/ricetta_the.html">VISUALIZZA</a> - <a download href="/downloads/ricetta_the.html">DOWNLOAD  [HTML]</a>)</li>
         <li>Riflessioni sulla produzione di imballaggi - versione 1.5 -
         (<a href="/downloads/riflessioni_produzione_imballaggi.html">VISUALIZZA</a>
         - <a download href="/downloads/riflessioni_produzione_imballaggi.html">DOWNLOAD  [HTML]</a>)</li>
@@ -21,8 +20,6 @@ ob_start();
         
         <li>Riflessioni sulla contrattualistica - versione 1.0 (<a href="/downloads/riflessioni_sui_contratti.html">VISUALIZZA</a> -
         <a href="/downloads/riflessioni_sui_contratti.html" download>DOWNLOAD  [HTML]</a>)</li>
-        <li>Riflessioni sulle discoteche - versione 1.0 (<a href="/downloads/riflessioni_sulle_discoteche.html">VISUALIZZA</a> -
-        <a href="/downloads/riflessioni_sulle_discoteche.html" download>DOWNLOAD  [HTML]</a>)</li>
         <li>Riflessioni sul legno - versione 1.0 (<a href="/downloads/riflessioni_sul_legno.html">VISUALIZZA</a> - <a href=
         "/downloads/riflessioni_sul_legno.html">DOWNLOAD  [HTML]</a>)</li>
         <li>Doppio crescione dolce - ricetta - versione 1.3 (<a href="/downloads/doppio_crescione_dolce.pdf">VISUALIZZA</a> - <a href=
