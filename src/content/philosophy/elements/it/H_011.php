@@ -1,1 +1,2 @@
-H_011 - Tutto quello qui condiviso &egrave; utilizzabile solo per scopi legali. Eventuali usi volti ad alimentare attivit&agrave; illegali, anche effettuati in passato, sono espressamente vietati.
+H_011 - Tutto quello qui condiviso &egrave; utilizzabile solo per scopi legali. Eventuali usi volti ad alimentare attivit&agrave; illegali, anche effettuati in passato, sono espressamente vietati.<br />
+Alcuni contenuti di questo sito sono stati rielaborati con il supporto di strumenti di intelligenza artificiale, sotto la mia revisione e responsabilit&agrave; editoriale, in alcuni casi per correggere elementi di pericolosit&agrave; individuati nei contenuti originali, che ho deciso di mitigare.
