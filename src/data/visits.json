@@ -4,5 +4,11 @@
         "home": 1,
         "philosophy": 8,
         "elementi": 2
+    },
+    "2026-08": {
+        "index": 1,
+        "home": 1,
+        "philosophy": 2,
+        "docs": 1
     }
 }
