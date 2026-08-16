@@ -19,6 +19,13 @@ $available_documents = array(
 		"centro_gestione_stoccaggio_legnami",
 		"idea_sistema_gestione_processi_giudiziari",
 		"analisi_sistemi_trasporto",
+		"pensieri_in_pillole_1",
+		"pensieri_in_pillole_2",
+		"pensieri_in_pillole_3",
+		"pensieri_in_pillole_4",
+		"pensieri_in_pillole_5",
+		"pensieri_in_pillole_6",
+		"pensieri_in_pillole_7",
 		),
 	"en" => array(
 		"cerimonies",
@@ -38,5 +45,12 @@ $available_documents = array(
 		"wood_storage_management_center",
 		"idea_judicial_processes_management_system",
 		"transport_systems_analysis",
+		"thoughts_in_pills_1",
+		"thoughts_in_pills_2",
+		"thoughts_in_pills_3",
+		"thoughts_in_pills_4",
+		"thoughts_in_pills_5",
+		"thoughts_in_pills_6",
+		"thoughts_in_pills_7",
 		)
 	);

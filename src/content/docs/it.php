@@ -85,7 +85,17 @@ ob_start();
     </ul>
     <hr />
     <ul>
-        
+        <li>Pensieri in pillole - 1 - Le tipologie di percezioni nel corpo umano (<a href="/downloads/pensieri_in_pillole_1.html">VISUALIZZA</a> - <a href="/downloads/pensieri_in_pillole_1.html" download>DOWNLOAD  [HTML]</a>)</li>
+        <li>Pensieri in pillole - 2 - Le terapie degli elementali (<a href="/downloads/pensieri_in_pillole_2.html">VISUALIZZA</a> - <a href="/downloads/pensieri_in_pillole_2.html" download>DOWNLOAD  [HTML]</a>)</li>
+        <li>Pensieri in pillole - 3 - A proposito dei libri (<a href="/downloads/pensieri_in_pillole_3.html">VISUALIZZA</a> - <a href="/downloads/pensieri_in_pillole_3.html" download>DOWNLOAD  [HTML]</a>)</li>
+        <li>Pensieri in pillole - 4 - Le nostre mani (<a href="/downloads/pensieri_in_pillole_4.html">VISUALIZZA</a> - <a href="/downloads/pensieri_in_pillole_4.html" download>DOWNLOAD  [HTML]</a>)</li>
+        <li>Pensieri in pillole - 5 - Templi, moschee e chiese (<a href="/downloads/pensieri_in_pillole_5.html">VISUALIZZA</a> - <a href="/downloads/pensieri_in_pillole_5.html" download>DOWNLOAD  [HTML]</a>)</li>
+        <li>Pensieri in pillole - 6 - Lo zodiaco - Un'interpretazione (<a href="/downloads/pensieri_in_pillole_6.html">VISUALIZZA</a> - <a href="/downloads/pensieri_in_pillole_6.html" download>DOWNLOAD  [HTML]</a>)</li>
+        <li>Pensieri in pillole - 7 - Le piante in vaso - Appunti vari (<a href="/downloads/pensieri_in_pillole_7.html">VISUALIZZA</a> - <a href="/downloads/pensieri_in_pillole_7.html" download>DOWNLOAD  [HTML]</a>)</li>
+    </ul>
+    <hr />
+    <ul>
+
         <li>Reportage su uso del voodoo effettuato tramite lo spargimento di immondizia (<a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">DA GOOGLE DRIVE</a>) (1.2 GB) (Varie
         lingue)</li>
     </ul>

@@ -37,9 +37,19 @@ ob_start();
     </ul>
         <hr />
     <ul>
-        
+        <li>Thoughts in pills - 1 - The kinds of perceptions in the human body (<a href="/downloads/thoughts_in_pills_1.html">VIEW</a> - <a href="/downloads/thoughts_in_pills_1.html" download> DOWNLOAD [HTML]</a>)</li>
+        <li>Thoughts in pills - 2 - The therapies of elementals (<a href="/downloads/thoughts_in_pills_2.html">VIEW</a> - <a href="/downloads/thoughts_in_pills_2.html" download> DOWNLOAD [HTML]</a>)</li>
+        <li>Thoughts in pills - 3 - About books (<a href="/downloads/thoughts_in_pills_3.html">VIEW</a> - <a href="/downloads/thoughts_in_pills_3.html" download> DOWNLOAD [HTML]</a>)</li>
+        <li>Thoughts in pills - 4 - Our hands (<a href="/downloads/thoughts_in_pills_4.html">VIEW</a> - <a href="/downloads/thoughts_in_pills_4.html" download> DOWNLOAD [HTML]</a>)</li>
+        <li>Thoughts in pills - 5 - Temples, churches and mosques (<a href="/downloads/thoughts_in_pills_5.html">VIEW</a> - <a href="/downloads/thoughts_in_pills_5.html" download> DOWNLOAD [HTML]</a>)</li>
+        <li>Thoughts in pills - 6 - The Zodiac - An interpretation (<a href="/downloads/thoughts_in_pills_6.html">VIEW</a> - <a href="/downloads/thoughts_in_pills_6.html" download> DOWNLOAD [HTML]</a>)</li>
+        <li>Thoughts in pills - 7 - Potted plants - Some notes (<a href="/downloads/thoughts_in_pills_7.html">VIEW</a> - <a href="/downloads/thoughts_in_pills_7.html" download> DOWNLOAD [HTML]</a>)</li>
+    </ul>
+        <hr />
+    <ul>
+
         <li>Reportage on the usage of voodoo made with litter (<a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">FROM GOOGLE DRIVE</a>) (1.2 GB) (Many languages)</li>
-        
+
     </ul>
 </div>
 <?php
