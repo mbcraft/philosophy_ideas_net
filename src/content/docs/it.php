@@ -85,34 +85,10 @@ ob_start();
     </ul>
     <hr />
     <ul>
-        <!--
-        <li>Istruzioni per la sistemazione del profilo Facebook da post
-        indesiderati (<a href="/downloads/istruzioni_per_sistemazione_profilo_facebook.html">VISUALIZZA</a> - <a href=
-        "/downloads/istruzioni_per_sistemazione_profilo_facebook.html" download>DOWNLOAD</a>)</li> -->
-
+        
         <li>Reportage su uso del voodoo effettuato tramite lo spargimento di immondizia (<a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">DA GOOGLE DRIVE</a>) (1.2 GB) (Varie
         lingue)</li>
     </ul>
-    <hr />
-    <p>Ebook in vendita su Amazon (si possono leggere anche tramite
-    browser su computer) :</p>
-    <ul>
-        <li><a href="https://amzn.eu/d/c0GeQvq">Pensieri in pillole - 1 -
-        Le tipologie di percezioni del corpo umano</a></li>
-        <li><a href="https://amzn.eu/d/7bPV6wc">Pensieri in pillole - 2 -
-        Le terapie degli elementali</a></li>
-        <li><a href="https://amzn.eu/d/2YosQNh">Pensieri in pillole - 3 - A
-        proposito dei libri</a></li>
-        <li><a href="https://amzn.eu/d/3wlp3Y8">Pensieri in pillole - 4 -
-        Le nostre mani</a></li>
-        <li><a href="https://amzn.eu/d/dbAzFTN">Pensieri in pillole - 5 -
-        Templi, moschee e chiese</a></li>
-        <li><a href="https://amzn.eu/d/6o8PmzK">Pensieri in pillole - 6 -
-        Lo zodiaco - Un'interpretazione</a></li>
-        <li><a href="https://amzn.eu/d/04ThU9HA">Pensieri in pillole - 7 -
-        Le piante in vaso - Appunti vari</a></li>
-    </ul>
-
 </div>
 <?php
 $content = ob_get_contents();
