@@ -51,7 +51,6 @@ ob_start();
 		<li><a href="/pages/meme_feed_cat_eng.php">37</a></li>
 	</ul>
 </span>
-<hr />
 <?php
 
 $content = ob_get_contents();
