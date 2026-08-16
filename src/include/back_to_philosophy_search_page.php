@@ -13,6 +13,7 @@ if (isset($element) && $element) {
     $current_range = isset($ranges_by_letter[$letter]) ? $ranges_by_letter[$letter] : null;
     $is_previous_show = $number > 1 && !$is_search_with_words;
     $is_next_show = $current_range && $number < $current_range[2] - 1 && !$is_search_with_words;
+    $is_last_of_series = $current_range && $number == $current_range[2] - 1 && !$is_search_with_words;
 } else {
     $letter = null;
     $number = null;
@@ -21,11 +22,36 @@ if (isset($element) && $element) {
     $current_range = null;
     $is_previous_show = false;
     $is_next_show = false;
+    $is_last_of_series = false;
+}
+
+// If we're on the last element of a series, look up the next series in the
+// sequence (if any) so we can point the reader to it. Fully driven by
+// $letter_series / $ranges_by_letter, so adding elements to a series (or a
+// whole new series, as long as it's added to those two structures and to
+// the letter buttons row below) requires no changes here.
+$next_series_letter = null;
+
+if ($is_last_of_series) {
+    $series_index = array_search($letter, $letter_series);
+
+    if ($series_index !== false && isset($letter_series[$series_index + 1])) {
+        $next_series_letter = $letter_series[$series_index + 1];
+    }
 }
 
 //$lang is defined
 
 ?>
+<?php if ($next_series_letter) { ?>
+<div align="center" class="series_end_message" style="margin:10px 0;">
+    <?php if (LANG=="it") { ?>
+        Questo &egrave; l'ultimo elemento della serie <?=$letter?>, puoi procedere con la serie <?=$next_series_letter?> cliccando sul pulsante <?=$next_series_letter?> qui sotto.
+    <?php } else { ?>
+        This is the last element of series <?=$letter?>, you can proceed with series <?=$next_series_letter?> by clicking the <?=$next_series_letter?> button below.
+    <?php } ?>
+</div>
+<?php } ?>
 <div align="center" class="nav_buttons_row">
     <?php
     if ($is_previous_show) {
