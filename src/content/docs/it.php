@@ -9,7 +9,6 @@ ob_start();
 ?>
 <div align='left'>
 
-    <h2>Piccoli spunti</h2>
     <ul>
         <li>Il gioco dei pacchi - regolamento - Versione 1.0 (<a href="/downloads/il_gioco_dei_pacchi.pdf">VISUALIZZA</a> - <a href="/downloads/il_gioco_dei_pacchi.pdf" download="">DOWNLOAD  [HTML]</a>)</li>
         <li>Riflessioni sulla produzione di imballaggi - versione 1.5 -
@@ -36,9 +35,6 @@ ob_start();
         <li>Simboli alternativi grezzi per i caratteri esadecimali (<a href="/downloads/rough_hexadecimal_alternate_symbols.zip"
         download="">DOWNLOAD  [ZIP]</a>)</li>
         <li>Tecnica di gestione del sogno - R.C.D.O. (<a href="/downloads/tecnica_gestione_sogno.html">VISUALIZZA</a> - <a href="/downloads/tecnica_gestione_sogno.html" download>DOWNLOAD</a>)</li>
-    </ul>
-    <h2>Altro</h2>
-    <ul>
         <li>Guida alla raccolta di rifiuti in zone urbane e extraurbane -
         Versione 2.0 (<a href="/downloads/litterpicking_guidelines_2_0_ita.pdf" download>DOWNLOAD  [PDF]</a>) (<a href="/downloads/litterpicking_guidelines_2_0_ita.odt" download>DOWNLOAD  [ODT]</a>)</li>
         <li>Introduzione alla meditazione - versione 2.1 (<a href="/downloads/introduzione_alla_meditazione.html">VISUALIZZA</a> -
@@ -98,10 +94,8 @@ ob_start();
         lingue)</li>
     </ul>
     <hr />
-    <hr />
     <p>Ebook in vendita su Amazon (si possono leggere anche tramite
-    browser su computer) (leggere sempre la descrizione prima di
-    valutare l'acquisto):</p>
+    browser su computer) :</p>
     <ul>
         <li><a href="https://amzn.eu/d/c0GeQvq">Pensieri in pillole - 1 -
         Le tipologie di percezioni del corpo umano</a></li>

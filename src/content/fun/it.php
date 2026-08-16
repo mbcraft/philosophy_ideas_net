@@ -8,13 +8,11 @@ $keywords = "meme, divertimento";
 ob_start();
 ?>
 <p>
-	Questi sono i link attualmente disponibili. I nuovi meme vengono aggiunti in fondo alla lista. Raccomando la visualizzazione di <b>non più di un meme</b> al giorno e di <b>seguire l'ordine</b> partendo dal primo. Col passare del tempo alcuni meme potrebbero diventare deprecati.<br />
-	Se visualizzate i meme su smartphone ruotare il telefono potrebbe migliorarne la visualizzazione. Questi meme non sono un modo per offendere aziende o persone in essi coinvolti. <b>NOTA: fate attenzione comunque ad eventuali crisi respiratorie, a me personalmente in certi casi hanno fatto ridere tantissimo. Non mi assumo responsabilità per problemi derivanti da eccessi di risate. Sono indicati se vi sentite abbastanza depressi.</b> Questi meme sono inseriti qui A SCOPO PUBBLICITARIO in quanto non posso permettermi altro.<br />
-	Questi meme rappresentano i disastri nella mia vita. In un certo senso sono anche quelli nella vita di altre persone più o meno mie coetanee, solo visti da un'angolatura differente.
+	Trovate qui di seguito l'elenco dei meme da me realizzati indicati da numeri progressivi, che sono link cliccabili per procedere alla visualizzazione. Consiglio di andare in ordine. Nei meme costituiti da più vignette cliccare sopra la vignetta per passare a quella successiva.
 </p>
 <span class="brief">
 	<ul>
-		<li><a href="/pages/anti_gravita_ita.php">1 - DEPRECATO</a></li>
+		<li><a href="/pages/anti_gravita_ita.php">1</a></li>
 		<li><a href="/pages/cc_toilette_ita.php">2</a></li>
 		<li><a href="/pages/fango_positivo_vita_ita.php">3</a></li>
 		<li><a href="/pages/formitrol_ita.php">4</a></li>
@@ -43,8 +41,8 @@ ob_start();
 		<li><a href="/pages/meme_self_sabotage_ita.php">27</a></li>
 		<li><a href="/pages/meme_web_site_ita.php">28</a></li>
 		<li><a href="/pages/meme_fears_ita.php">29</a></li>
-		<li><a href="/pages/gem_ita.php">30</a> (ATTENZIONE!! PERICOLO DI MORTE!!)</li>
-		<li><a href="/pages/meme_festivita_ita.php">31</a> (ANCHE PER QUESTO NON MI ASSUMO RESPONSABILITA' ...)</li>
+		<li><a href="/pages/gem_ita.php">30</a></li>
+		<li><a href="/pages/meme_festivita_ita.php">31</a></li>
 		<li><a href="/pages/meme_password_changed_ita.php">32</a></li>
 		<li><a href="/pages/meme_smartphone_evolution.php">33</a></li>
 		<li><a href="/pages/meme_ferragni_moda_ita.php">34</a></li>
@@ -61,7 +59,7 @@ ob_start();
 <hr />
 <h1>+ Gaming +</h1>
 <h2>- Shadow of the Tomb Raider</h2>
-<p>Testi e dialoghi del gioco in inglese e commenti in italiano. Sono richieste un po' di nozioni di Inglese per capire i testi e i dialoghi del gioco ...</p>
+<p>Testi e dialoghi del gioco in inglese e commenti da ridere in italiano. Sono richieste un po' di nozioni di Inglese per capire i testi e i dialoghi del gioco ...</p>
 <span class="brief">
 	<ul>
 		<li><a href="https://youtu.be/uqdvqVpVXck">1</a></li>

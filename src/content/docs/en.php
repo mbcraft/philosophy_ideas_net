@@ -9,7 +9,6 @@ ob_start();
 ?>
 <div align='left'>
 
-    <h2>Little ideas</h2>
     <ul>
         <li>The parcel game - rules - Version 1.0 (<a href="/downloads/the_parcel_game.pdf">VIEW</a> - <a href="/downloads/the_parcel_game.pdf" download> DOWNLOAD [PDF]</a>)</li>
         <li>Reflections about packaging production - version 1.5 - (<a href="/downloads/reflections_about_packaging_production.html">VIEW</a> - <a download href="/downloads/reflections_about_packaging_production.html"> DOWNLOAD [HTML]</a>)</li>
@@ -23,9 +22,6 @@ ob_start();
         <li>Standard logo for feedback form to put in index/home page footer of internet sites (<a href="/downloads/feedback_form_standard_logo.svg" download> DOWNLOAD [SVG]</a>) (<a href="/downloads/feedback_form_standard_logo.png" download> DOWNLOAD [HTML]</a>) </li>
         <li>Alternative rough symbols for hexadecimal characters (<a href="/downloads/rough_hexadecimal_alternate_symbols.zip" download> DOWNLOAD [ZIP]</a>)</li>
         <li>Dream management tecnique - C.B.H.F.D. (<a href="/downloads/dream_management_tecnique.html">VIEW</a> - <a href="/downloads/dream_management_tecnique.html" download>DOWNLOAD</a>)</li>
-    </ul>
-    <h2>Other</h2>
-    <ul>
         <li>Urban/Suburban Litterpicking Guide - Version 2.0 (<a href="/downloads/litterpicking_guidelines_2_0_eng.pdf" download> DOWNLOAD [PDF]</a>) (<a href="/downloads/litterpicking_guidelines_2_0_eng.odt" download> DOWNLOAD [ODT]</a>)</li>
         <li>Introduction to meditation - version 2.1 (<a href="/downloads/introduction_to_meditation.html">VIEW</a> - <a href="/downloads/introduction_to_meditation.html" download> DOWNLOAD [HTML]</a>)</li>
         <li>Open air games - Version 1.3 (<a href="/downloads/open_air_games.html">VIEW</a> - <a href="/downloads/open_air_games.html" download> DOWNLOAD [HTML]</a>)</li>
@@ -48,7 +44,7 @@ ob_start();
         
     </ul>
     <hr />
-    <p>Ebook for sale on Amazon (they can be read also using a browser on a computer) (always read the description before evaluating the purchase):</p>
+    <p>Ebook for sale on Amazon (they can be read also using a browser on a computer) :</p>
     <ul>
         <li><a href="https://a.co/d/hD9QQBj">Thoughts in pills - 1 - The kinds of perceptions of the human body</a></li>
         <li><a href="https://a.co/d/eCkR9lW">Thoughts in pills - 2 - The therapies of the elements</a></li>

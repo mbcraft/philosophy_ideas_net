@@ -8,9 +8,7 @@ $keywords = "meme, fun";
 ob_start();
 ?>
 <p>
-	Here are the currently available links. New memes are added at the bottom of the list. I recommend viewing <b>no more than one meme</b> a day and <b>following the order</b> starting from the first. Over time some memes may become deprecated.<br />
-	If you view these memes on a smartphone, rotating your phone can improve their visualization. Some memes are translations of the Italian versions, while some are available only in English. Some Italian memes are not translatable. These memes are not meant to be used as a way to hurt people or companies somewhat involved. <b>NOTE: however, pay attention to any respiratory crises, in some cases they personally made me laugh a lot. I do not take responsibility for problems resulting from excessive laughter. They are indicated if you feel quite depressed.</b> These memes are placed here FOR ADVERTISING PURPOSES as I can't afford anything else.<br />
-	These memes represent the disasters in my life. In a certain sense they are also those in the lives of other people more or less the same age as me, just seen from a different angle.
+	Below is a list of my memes, listed by consecutive numbers, which are clickable links to continue viewing. I recommend browsing in order. For memes with multiple panels, click on the panel to move to the next one.
 </p>
 <span class="brief">
 	<ul>
@@ -38,8 +36,8 @@ ob_start();
 		<li><a href="/pages/meme_self_sabotage_eng.php">22</a></li>
 		<li><a href="/pages/meme_web_site_eng.php">23</a></li>
 		<li><a href="/pages/meme_fears_eng.php">24</a></li>
-		<li><a href="/pages/gem_eng.php">25</a> (WARNING!! DEATH RISK!!)</li>
-		<li><a href="/pages/meme_festivita_eng.php">26</a> (EVEN FOR THIS ONE I TAKE NO RESPONSIBILITY ...)</li>
+		<li><a href="/pages/gem_eng.php">25</a></li>
+		<li><a href="/pages/meme_festivita_eng.php">26</a></li>
 		<li><a href="/pages/meme_password_changed_eng.php">27</a></li>
 		<li><a href="/pages/meme_smartphone_evolution.php">28</a></li>
 		<li><a href="/pages/meme_shaolin_soccer_eng.php">29</a></li>
@@ -54,20 +52,6 @@ ob_start();
 	</ul>
 </span>
 <hr />
-<h1>+ Gaming +</h1>
-<h2>- Shadow of the Tomb Raider</h2>
-<p>Game text and dialogs in English and comments in Italian. I'm planning a full English subtitling but I can't afford it now. Here is what I can share now ...</p>
-<span class="brief">
-	<ul>
-		<li><a href="https://youtu.be/uqdvqVpVXck">1</a></li>
-		<li><a href="https://youtu.be/Dn1qDSJRkGw">2</a></li>
-		<li><a href="https://youtu.be/2o7yXxMOJ78">3</a></li>
-		<li><a href="https://youtu.be/ndcOIBHr8s4">4</a></li>
-		<li><a href="https://youtu.be/gymFUNKjZIc">5</a></li>
-		<li><a href="https://youtu.be/yYUn6PtSOg0">6</a></li>
-		<li>...</li>
-	</ul>
-</span>
 <?php
 
 $content = ob_get_contents();
