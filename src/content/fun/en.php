@@ -8,7 +8,7 @@ $keywords = "meme, fun";
 ob_start();
 ?>
 <p>
-	Below is a list of my memes, listed by consecutive numbers, which are clickable links to continue viewing. I recommend browsing in order. For memes with multiple panels, click on the panel to move to the next one.
+	Below is a list of my <b>memes</b>, listed by consecutive numbers, which are clickable links to continue viewing. I recommend browsing in order. For memes with multiple panels, click on the panel to move to the next one.
 </p>
 <span class="brief">
 	<ul>

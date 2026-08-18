@@ -8,7 +8,7 @@ $keywords = "meme, divertimento";
 ob_start();
 ?>
 <p>
-	Trovate qui di seguito l'elenco dei meme da me realizzati indicati da numeri progressivi, che sono link cliccabili per procedere alla visualizzazione. Consiglio di andare in ordine. Nei meme costituiti da più vignette cliccare sopra la vignetta per passare a quella successiva.
+	Trovate qui di seguito l'elenco dei <b>meme</b> da me realizzati indicati da numeri progressivi, che sono link cliccabili per procedere alla visualizzazione. Consiglio di andare in ordine. Nei meme costituiti da più vignette cliccare sopra la vignetta per passare a quella successiva.
 </p>
 <span class="brief">
 	<ul>
@@ -59,7 +59,7 @@ ob_start();
 <hr />
 <h1>+ Gaming +</h1>
 <h2>- Shadow of the Tomb Raider</h2>
-<p>Testi e dialoghi del gioco in inglese e commenti da ridere in italiano. Sono richieste un po' di nozioni di Inglese per capire i testi e i dialoghi del gioco ...</p>
+<p>Testi e dialoghi del gioco in inglese e commenti <b>da ridere</b> in italiano. Sono richieste un po' di nozioni di Inglese per capire i testi e i dialoghi del gioco ...</p>
 <span class="brief">
 	<ul>
 		<li><a href="https://youtu.be/uqdvqVpVXck">1</a></li>
