@@ -1,1 +1,1 @@
-A_300 - If you're feeling a little off and you're male, you can try pouring a little mouthwash on your foreskin (possibly diluted with a bit of water, for a less intense effect). I tried a couple of times and it's a rather pleasant sensation.
+A_300 - If you're feeling a little off and are male, you can try pouring a little mouthwash on your glans (possibly diluted with a little water, for a less intense effect). I've tried it a couple of times, and it's still a pretty pleasant sensation.

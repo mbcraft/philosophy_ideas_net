@@ -1,1 +1,1 @@
-A_300 - Se vi sentite un po' spenti e siete di sesso maschile, potete provare a versarvi un po' di colluttorio sul prepuzio (eventualmente diluito con un po' d'acqua, per un effetto meno intenso). Io ho provato un paio di volte e rimane una sensazione piuttosto piacevole.
+A_300 - Se vi sentite un po' spenti e siete di sesso maschile, potete provare a versarvi un po' di colluttorio sul glande (eventualmente diluito con un po' d'acqua, per un effetto meno intenso). Io ho provato un paio di volte e rimane una sensazione piuttosto piacevole.
