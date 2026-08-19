@@ -76,6 +76,20 @@ function get_element_last_modified_time($lang,$element_id) {
     return filemtime(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
 }
 
+// Like get_element_last_modified_time(), but also takes into account the
+// companion meta file (title/description/keywords), if present, so editing
+// just the meta still bumps the element's sitemap lastmod.
+function get_element_sitemap_last_modified_time($lang,$element_id) {
+
+    $lastmod = get_element_last_modified_time($lang,$element_id);
+
+    $meta_file = PROJECT_DIR."/content/philosophy/elements_meta/".$lang."/".$element_id.".php";
+
+    if (file_exists($meta_file)) $lastmod = max($lastmod,filemtime($meta_file));
+
+    return $lastmod;
+}
+
 // Plain-text (no tags, no HTML entities) version of an element's content,
 // with the leading "ID - " prefix stripped. Used to build unique per-element
 // <title>/meta description, since the raw content is HTML with entities.

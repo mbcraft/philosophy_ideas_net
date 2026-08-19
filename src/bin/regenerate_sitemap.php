@@ -59,7 +59,7 @@ foreach ($all_ranges as $range_spec) {
 
 			$element_file = PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php";
 
-			$lastmod = file_exists($element_file) ? get_element_last_modified_time($lang,$element_id) : time();
+			$lastmod = file_exists($element_file) ? get_element_sitemap_last_modified_time($lang,$element_id) : time();
 
 			add_url($urls,$BASE_URL."/".$lang."/philosophy/".$element_id.".php",$lastmod,"yearly","0.1");
 		}
