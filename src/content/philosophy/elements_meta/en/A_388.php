@@ -1,0 +1,5 @@
+<?php
+
+$title_suffix = 'Fruit stones (for example dates, peach ...) when not necessary to… (A_388)';
+$description = 'Fruit stones (for example dates, peach ...) when not necessary to grow new trees, are conceptually a woody resource that can be used both as fuel and also…';
+$keywords = 'philosophy, tips, friendship';

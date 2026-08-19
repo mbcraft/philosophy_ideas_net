@@ -76,6 +76,58 @@ function get_element_last_modified_time($lang,$element_id) {
     return filemtime(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
 }
 
+// Plain-text (no tags, no HTML entities) version of an element's content,
+// with the leading "ID - " prefix stripped. Used to build unique per-element
+// <title>/meta description, since the raw content is HTML with entities.
+function get_element_plain_text($lang,$element_id) {
+
+    $content = get_element_content($lang,$element_id);
+
+    $content = preg_replace('/^'.preg_quote($element_id,'/').'\s*-\s*/','',$content);
+    $content = strip_tags($content);
+    $content = html_entity_decode($content,ENT_QUOTES,'UTF-8');
+
+    return trim(preg_replace('/\s+/',' ',$content));
+}
+
+// Truncates $text to at most $max_len characters, breaking on a word
+// boundary and appending an ellipsis, for use in <title>/meta description.
+function truncate_for_meta($text,$max_len) {
+
+    if (mb_strlen($text) <= $max_len) return $text;
+
+    $truncated = mb_substr($text,0,$max_len);
+
+    $last_space = mb_strrpos($truncated,' ');
+    if ($last_space !== false) $truncated = mb_substr($truncated,0,$last_space);
+
+    return rtrim($truncated," ,.;:-")."…";
+}
+
+// Builds a meta description out of whole leading sentences of $text (never
+// cutting mid-sentence), stopping before the sentence that would push the
+// result past $max_len. Falls back to truncate_for_meta() if even the first
+// sentence alone is too long.
+function build_element_description($text,$max_len = 155) {
+
+    $sentences = preg_split('/(?<=[.!?])\s+/u',$text,-1,PREG_SPLIT_NO_EMPTY);
+
+    $description = '';
+
+    foreach ($sentences as $sentence) {
+
+        $candidate = trim($description.' '.$sentence);
+
+        if (mb_strlen($candidate) > $max_len) break;
+
+        $description = $candidate;
+    }
+
+    if ($description === '') $description = truncate_for_meta($text,$max_len);
+
+    return $description;
+}
+
 function print_element($lang,$element_id) {
 
     $element_content = file_get_contents(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");

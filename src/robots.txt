@@ -1,1 +1,4 @@
-Allow: *
+User-agent: *
+Allow: /
+
+Sitemap: https://www.philosophy-ideas.net/sitemap.xml

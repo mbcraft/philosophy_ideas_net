@@ -10,10 +10,11 @@
     </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Philosophy-ideas.net - <?=$title_suffix ?></title>
-    <meta name='description' content="<?=$description ?>">
-    <meta name='keywords' content="<?=$keywords ?>">  
-    <link rel="stylesheet" href="/css/w3.css">    
+    <title>Philosophy-ideas.net - <?=htmlspecialchars($title_suffix,ENT_QUOTES,'UTF-8') ?></title>
+    <meta name='description' content="<?=htmlspecialchars($description,ENT_QUOTES,'UTF-8') ?>">
+    <meta name='keywords' content="<?=htmlspecialchars($keywords,ENT_QUOTES,'UTF-8') ?>">
+    <link rel="canonical" href="https://www.philosophy-ideas.net<?=htmlspecialchars(strtok($_SERVER['REQUEST_URI'] ?? '','?'),ENT_QUOTES,'UTF-8') ?>" />
+    <link rel="stylesheet" href="/css/w3.css">
     <link rel="stylesheet" href="/css/default.css?<?=time() ?>">
     <link rel="stylesheet" href="/css/menu.css?<?=time() ?>">
     <link rel="stylesheet" href="/css/background_gallery.css?<?=time() ?>">

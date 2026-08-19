@@ -1,0 +1,5 @@
+<?php
+
+$title_suffix = 'Personalmente credo che sia una buona idea tenere almeno 1-2 piante… (A_286)';
+$description = 'Personalmente credo che sia una buona idea tenere almeno 1-2 piante in vaso in ogni stanza della casa in cui entra luce (anche se sono piccole va bene…';
+$keywords = 'filosofia, consigli, amicizia';

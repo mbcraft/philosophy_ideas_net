@@ -8,6 +8,9 @@ if (!defined("PROJECT_DIR"))
 define("PROJECT_DIR",$PROJECT_DIR);
 
 include_once(PROJECT_DIR."/include/philosophy_page_support_functions.php");
+include_once(PROJECT_DIR."/include/api_calls_counter.php");
+
+count_api_call("v1.2",basename($_SERVER['SCRIPT_NAME'],".php"));
 
 function api_reply_with_ok($data) {
 
