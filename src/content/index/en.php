@@ -36,10 +36,10 @@ require_once (DIR_PREFIX."include/site_variables.php");
     ?>
     <br />
 
-    <a href="/en/home.php">Enter without using a background</a>
+    <a href="/en/home.php"><h2>Enter without using a background</h2></a>
     
-    <br /><br />or
-    <div style="padding-top:20px;"><h3>Choose your favorite background :</h3></div>
+    <br />or
+    <div style="padding-top:10px;"><h3>Choose your favorite background :</h3></div>
     <?php
         include('_background_list.php');
     ?>
