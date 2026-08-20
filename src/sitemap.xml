@@ -195,7 +195,7 @@
 	</url>
 	<url>
 		<loc>https://www.philosophy-ideas.net/it/philosophy/A_001.php</loc>
-		<lastmod>2026-08-19</lastmod>
+		<lastmod>2026-08-20</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.1</priority>
 	</url>
@@ -8186,6 +8186,18 @@
 		<priority>0.1</priority>
 	</url>
 	<url>
+		<loc>https://www.philosophy-ideas.net/it/philosophy/A_667.php</loc>
+		<lastmod>2026-08-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
+		<loc>https://www.philosophy-ideas.net/en/philosophy/A_667.php</loc>
+		<lastmod>2026-08-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
 		<loc>https://www.philosophy-ideas.net/it/philosophy/B_000.php</loc>
 		<lastmod>2026-08-19</lastmod>
 		<changefreq>yearly</changefreq>
@@ -8518,6 +8530,18 @@
 	<url>
 		<loc>https://www.philosophy-ideas.net/en/philosophy/C_010.php</loc>
 		<lastmod>2026-08-19</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
+		<loc>https://www.philosophy-ideas.net/it/philosophy/C_011.php</loc>
+		<lastmod>2026-08-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
+		<loc>https://www.philosophy-ideas.net/en/philosophy/C_011.php</loc>
+		<lastmod>2026-08-20</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.1</priority>
 	</url>

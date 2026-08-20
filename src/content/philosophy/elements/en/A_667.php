@@ -1,0 +1,1 @@
+A_667 - Sports are beneficial not only because they get our muscles moving, but also because our bodies come into contact with new bacteria (such as those attached to the ball we play with, for example) that come into contact with our bodies and must therefore be managed by our immune system.

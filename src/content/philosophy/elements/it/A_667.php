@@ -1,0 +1,1 @@
+A_667 - Lo sport &egrave; utile non solo perch&egrave; si mettono in moto i muscoli, ma anche perch&egrave; il nostro corpo entra a contatto con nuovi batteri (come quelli attaccati alla palla con cui si gioca, ad esempio) che vengono in contatto col nostro corpo e devono pertanto essere gestiti dal nostro sistema immunitario.
