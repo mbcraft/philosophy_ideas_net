@@ -34,6 +34,15 @@ foreach ($all_ranges as $range_spec) {
 				continue;
 			}
 
+			$meta_dir = PROJECT_DIR."/content/philosophy/elements_meta/".$lang;
+
+			$meta_file = $meta_dir."/".$element_id.".php";
+
+			if (file_exists($meta_file)) {
+				$skipped++;
+				continue;
+			}
+
 			$plain_text = get_element_plain_text($lang,$element_id);
 
 			if ($plain_text === '') {
@@ -44,10 +53,7 @@ foreach ($all_ranges as $range_spec) {
 			$title = truncate_for_meta($plain_text,70)." (".$element_id.")";
 			$description = build_element_description($plain_text,155);
 
-			$meta_dir = PROJECT_DIR."/content/philosophy/elements_meta/".$lang;
 			if (!is_dir($meta_dir)) mkdir($meta_dir,0775,true);
-
-			$meta_file = $meta_dir."/".$element_id.".php";
 
 			$php = "<?php\n\n".
 				"\$title_suffix = ".var_export($title,true).";\n".
