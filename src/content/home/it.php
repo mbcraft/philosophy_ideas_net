@@ -8,7 +8,7 @@ $keywords = "sito internet, informazioni";
 ob_start();
 ?>
 <span class="brief">
-	Questo sito internet contiene un elenco di elementi filosofici ricercati e redatti nel corso di circa un anno e mezzo di ricerca, contiene numerosi meme e dei documenti su vari argomenti. Mi auguro che possiate trovare il tutto di vostro gradimento. - L'autore (Marco B.)
+	I contenuti di questo sito sono stati ricercati e redatti nel corso di circa un anno e mezzo di lavorazioni. Mi auguro che possiate trovare il tutto di vostro gradimento. - L'autore (Marco B.)
 </span>
 <hr />
 <h2>Come usare la sezione Filosofia</h2>

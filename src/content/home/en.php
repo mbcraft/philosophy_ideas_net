@@ -8,7 +8,7 @@ $keywords = "website, informations";
 ob_start();
 ?>
 <span class="brief">
-	This website contains a list of philosophical elements researched and compiled over the course of about a year and a half of research. It also contains numerous memes and documents on various topics. I hope you find it to your liking. - The author (Marco B.)
+	The contents of this site were researched and compiled over the course of about a year and a half of work. I hope you find it to your liking. - The author (Marco B.)
 </span>
 <hr />
 <h2>How to use the Philosophy section</h2>
