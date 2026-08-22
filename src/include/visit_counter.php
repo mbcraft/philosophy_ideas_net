@@ -6,12 +6,18 @@ $_month = date('Y-m');
 $_uri = strtok($_SERVER['REQUEST_URI'] ?? '', '?');
 $_parts = array_filter(explode('/', trim($_uri, '/')));
 $_last = end($_parts);
+$_dir = prev($_parts);
 $_page = $_last ? preg_replace('/\.php$/', '', $_last) : 'index';
 if ($_page === '' || $_page === 'it' || $_page === 'en') $_page = 'index';
 
 // Raggruppa tutti gli elementi filosofia in un'unica voce
 if (preg_match('/^[A-Z]_\d+$/', $_page)) {
     $_page = 'elementi';
+}
+
+// Raggruppa tutte le pagine meme (cartella /pages/) in un'unica voce
+if ($_dir === 'pages') {
+    $_page = 'meme';
 }
 
 $fp = @fopen($_visits_file, 'c+');
@@ -33,4 +39,4 @@ if ($fp) {
     fclose($fp);
 }
 
-unset($_visits_file, $_month, $_uri, $_parts, $_last, $_page, $_m, $fp, $raw, $data, $decoded);
+unset($_visits_file, $_month, $_uri, $_parts, $_last, $_dir, $_page, $_m, $fp, $raw, $data, $decoded);

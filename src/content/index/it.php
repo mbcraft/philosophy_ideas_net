@@ -10,16 +10,15 @@ ob_start();
 require_once (DIR_PREFIX."include/site_variables.php");
 
 ?>
-<div align='center' style="padding-top: 30px;">
-    <div style="padding:30px;">Benvenuto nel sito internet di</div>
-    <img width="600" src='/images/logo/Logo_Philosophy_Ideas_Small.png' alt='Logo sito internet' />
-    <br />
-
-    <br />
-    <a href="/about.php?lang=it">Altre informazioni</a>
+<div align='center' style="padding-top: 10px;">
+    <div style="padding-left:30px;padding-right:30px;">Benvenuto nel sito internet di</div>
+    <a href="/it/home.php"><img width="600" src='/images/logo/Logo_Philosophy_Ideas_Small.png' alt='Logo sito internet' /></a>
     <br />
     <br />
-    <strong>QUESTO SITO NON CONTIENE PUBBLICITÀ, LA NAVIGAZIONE È AGILE E LEGGERA</strong>
+    <strong>QUESTO SITO CONTIENE UNA RACCOLTA DI IDEE FILOSOFICHE, MEME E DOCUMENTI ORIGINALI E DI VELOCE LETTURA.</strong>
+    <br />
+    <br />
+    <strong>QUESTO SITO NON CONTIENE PUBBLICITÀ, LA NAVIGAZIONE È AGILE E LEGGERA ANCHE DA SMARTPHONE.</strong>
     <br />
     <?php
     if (!$is_open) {
@@ -36,10 +35,10 @@ require_once (DIR_PREFIX."include/site_variables.php");
     ?>
     <br />
 
-    <a href="/it/home.php"><h2>Entra senza usare uno sfondo</h2></a>
+    <a href="/it/home.php"><h2>Clicca qui per entrare</h2></a>
     
     <br />oppure
-    <div style="padding-top:10px;"><h3>Scegli lo sfondo che preferisci :</h3></div>
+    <div style="padding-top:10px;"><h3>Usa uno di questi sfondi :</h3></div>
     <?php
         include('_background_list.php');
     ?>
@@ -54,7 +53,7 @@ require_once (DIR_PREFIX."include/site_variables.php");
 </div>
     <br />
     <div align="center">
-    <h4>Ultimo aggiornamento : 20 Agosto 2026</h4>
+    <h4>Ultimo aggiornamento : 22 Agosto 2026</h4>
     </div>
     <br />
     <br />

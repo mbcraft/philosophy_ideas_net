@@ -10,16 +10,15 @@ ob_start();
 require_once (DIR_PREFIX."include/site_variables.php");
 
 ?>
-<div align='center' style="padding-top: 30px;">
-    <div style="padding:30px;">Welcome to the internet site of</div>
-    <img width="600" src='/images/logo/Logo_Philosophy_Ideas_Small.png' alt='Logo website' />
-    <br />
-
-    <br />
-    <a href="/about.php?lang=en">More informations</a>
+<div align='center' style="padding-top: 10px;">
+    <div style="padding-left:30px;padding-right:30px;">Welcome to the internet site of</div>
+    <a href="/en/home.php"><img width="600" src='/images/logo/Logo_Philosophy_Ideas_Small.png' alt='Logo website' /></a>
     <br />
     <br />
-    <strong>THIS WEBSITE CONTAINS NO ADVERTISING, NAVIGATION IS FAST AND LIGHTWEIGHT</strong>
+    <strong>THIS SITE CONTAINS A COLLECTION OF ORIGINAL, QUICK-READ PHILOSOPHICAL IDEAS, MEMES, AND DOCUMENTS.</strong>
+    <br />
+    <br />
+    <strong>THIS WEBSITE CONTAINS NO ADVERTISING, NAVIGATION IS FAST AND LIGHTWEIGHT.</strong>
     <br />
     <?php
     if (!$is_open) {
@@ -36,10 +35,10 @@ require_once (DIR_PREFIX."include/site_variables.php");
     ?>
     <br />
 
-    <a href="/en/home.php"><h2>Enter without using a background</h2></a>
+    <a href="/en/home.php"><h2>Click here to enter</h2></a>
     
     <br />or
-    <div style="padding-top:10px;"><h3>Choose your favorite background :</h3></div>
+    <div style="padding-top:10px;"><h3>Use one of these wallpapers :</h3></div>
     <?php
         include('_background_list.php');
     ?>
@@ -54,7 +53,7 @@ require_once (DIR_PREFIX."include/site_variables.php");
 </div>
     <br />
     <div align="center">
-    <h4>Last update : 20 August 2026</h4>
+    <h4>Last update : 22 August 2026</h4>
     </div>
     <br />
     <br />
