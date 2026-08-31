@@ -1,1 +1,1 @@
-A_245 - From what I know, skin-on-skin caresses tend to be unpleasant. On the contrary, when the skin rubs with the fur or feathers of animals the sensation is pleasant.
+A_245 - From what I know, skin-on-skin caresses tend to be unpleasant, but only if the skin is even slightly sweaty. Conversely, when the skin rubs against animal fur or feathers, the sensation is pleasant.

@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'As I also described in a video published on my TikTok profile, over… (A_583)';
-$description = 'As I also described in a video published on my TikTok profile, over the last 12 years I have followed a vegan diet (and I believe this also applies to a…';
+$title_suffix = 'I believe that since it is thanks to the sun and the moon, as well as… (A_583)';
+$description = 'I believe that since it is thanks to the sun and the moon, as well as the chemical composition of our planet, that the climate on our planet has allowed…';
 $keywords = 'philosophy, tips, friendship';

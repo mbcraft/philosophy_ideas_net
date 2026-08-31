@@ -1,1 +1,1 @@
-A_648 - Even when it comes to personal hygiene, it is important to use 100% plant-based soaps and detergents, as in some cases, certain recipes for soaps or other detergents actually contain ingredients of animal origin.
+A_648 - As for personal hygiene, I recommend using 100% plant-based soaps and detergents, as some soap and other detergent recipes actually contain ingredients of animal origin.

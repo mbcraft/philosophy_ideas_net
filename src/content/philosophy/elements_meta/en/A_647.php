@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Personally I have some doubt about whether sugar is really what… (A_647)';
-$description = 'Personally I have some doubt about whether sugar is really what causes cavities: saliva helps digest sugars, among other things, so I wonder if the link…';
+$title_suffix = 'Personally, I have doubts about whether sugars actually cause tooth… (A_647)';
+$description = 'Personally, I have doubts about whether sugars actually cause tooth decay: saliva, among other things, helps digest sugars, so I wonder if the link is as…';
 $keywords = 'philosophy, tips, friendship';

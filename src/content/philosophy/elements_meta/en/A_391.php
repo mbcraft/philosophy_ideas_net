@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'The information I have shared through my website has value regardless… (A_391)';
-$description = 'The information I have shared through my website has value regardless of whether you can feel positively when you read it.';
+$title_suffix = 'The information I\'ve shared on my website has value regardless of… (A_391)';
+$description = 'The information I\'ve shared on my website has value regardless of whether you\'re positively moved by it.';
 $keywords = 'philosophy, tips, friendship';

@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'When you are on social networks it may happen that other people may… (A_232)';
-$description = 'When you are on social networks it may happen that other people may have feelings or desires towards you. Be aware that your thoughts may change course.';
+$title_suffix = 'When you\'re on social networks, other people may develop feelings or… (A_232)';
+$description = 'When you\'re on social networks, other people may develop feelings or desires for you. Be aware that your thoughts may change.';
 $keywords = 'philosophy, tips, friendship';

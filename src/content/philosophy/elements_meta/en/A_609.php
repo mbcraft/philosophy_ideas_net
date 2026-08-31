@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'As for clothes, I recommend paying attention not only to the quality… (A_609)';
-$description = 'As for clothes, I recommend paying attention not only to the quality and materials with which what we wear is made, but also to the label and the name.';
+$title_suffix = 'Personally, I find it absurd that certain people are fined for… (A_609)';
+$description = 'Personally, I find it absurd that certain people are fined for "obscene acts" on nudist beaches, as these are places not frequented by children, and it…';
 $keywords = 'philosophy, tips, friendship';

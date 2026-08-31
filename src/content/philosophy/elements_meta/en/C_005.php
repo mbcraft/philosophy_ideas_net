@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'There is a battery technology called "magnesium-air". They are… (C_005)';
-$description = 'There is a battery technology called "magnesium-air". They are batteries approximately 5 times more powerful than lithium ones.';
+$title_suffix = 'There\'s a battery technology called "magnesium-air." These batteries… (C_005)';
+$description = 'There\'s a battery technology called "magnesium-air." These batteries are about five times more powerful than lithium batteries.';
 $keywords = 'philosophy, tips, friendship';

@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Just as you walk your pets, the same can be done with potted plants… (A_242)';
-$description = 'Just as you walk your pets, the same can be done with potted plants.';
+$title_suffix = 'Just as you would take your pets for a walk, you can do the same with… (A_242)';
+$description = 'Just as you would take your pets for a walk, you can do the same with potted plants.';
 $keywords = 'philosophy, tips, friendship';

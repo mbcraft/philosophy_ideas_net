@@ -1,1 +1,1 @@
-A_192 - Anche i bruchi e le lumache possono essere utilizzati come animali domestici, in una piccola teca. Sono molto economici da mantenere. 
+A_192 - Per chi ha un campanello esposto al sole, con etichetta stampata con quegli appositi strumenti per etichette in rilievo, consiglio di mettere del nastro adesivo trasparente sopra la parte stampata in modo che il sole non scolorisca il colore con il passare del tempo.

@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Nei boschi innevati, dove è nevicato e la neve si è accumulata sopra… (A_572)';
-$description = 'Nei boschi innevati, dove è nevicato e la neve si è accumulata sopra gli alberi, sarebbe importante in un qualche modo riuscire a far scendere la neve per…';
+$title_suffix = 'Può capitare dopo aver fatto attività fisica che abbiamo il fiato… (A_572)';
+$description = 'Può capitare dopo aver fatto attività fisica che abbiamo il fiato lungo.';
 $keywords = 'filosofia, consigli, amicizia';

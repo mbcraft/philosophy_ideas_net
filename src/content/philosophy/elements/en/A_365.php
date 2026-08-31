@@ -1,1 +1,1 @@
-A_365 - A baby cannot lift a hammer weighing 5 kg. An adult person most likely yes.
+A_365 - A baby can't lift a 5 kg hammer. An adult most likely can. The meaning of this sentence is that the difficulty of a task is always relative and influenced by various factors, and never absolute.

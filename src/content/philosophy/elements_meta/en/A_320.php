@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Having good nutrition and good, healthy habits is also important in a… (A_320)';
-$description = 'Having good nutrition and good, healthy habits is also important in a couple, because obviously if we are a wreck or are sick we can hardly support our…';
+$title_suffix = 'Good nutrition and healthy habits are also important for couples… (A_320)';
+$description = 'Good nutrition and healthy habits are also important for couples, because if we\'re a wreck or feeling unwell, we\'ll have a hard time supporting our…';
 $keywords = 'philosophy, tips, friendship';

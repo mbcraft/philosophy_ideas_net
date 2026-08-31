@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'I have found it very useful, living in very humid areas, to buy… (A_228)';
-$description = 'I have found it very useful, living in very humid areas, to buy potted cacti to keep at home.';
+$title_suffix = 'I found it very helpful, living in very humid areas, to buy potted… (A_228)';
+$description = 'I found it very helpful, living in very humid areas, to buy potted cacti to keep indoors.';
 $keywords = 'philosophy, tips, friendship';

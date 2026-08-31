@@ -1,1 +1,1 @@
-A_439 - &ldquo;The night is meant for sleeping&rdquo; (popular saying)
+A_439 - Using a small saucer and some rocks, you can make a simple insect drinker very easily and at a very low cost. Simply add a centimeter of water and you're done. The rocks prevent insects from having nowhere to cling if they come into contact with the water. Just remember to refill it every 2-3 days.

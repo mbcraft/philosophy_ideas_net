@@ -1,1 +1,1 @@
-A_153 - Per quanto ne so, sono gli alberi a farci fare sogni e incubi. A volte hanno bisogno di fare degli aggiustamenti alla nostra mente, metterci in guardia, esaminarci, e via dicendo. In ogni caso non abbiamo il diritto di giudicarli.
+A_153 - Per quanto ne so, per quanto riguarda i sogni quello che ho capito &egrave; che dipendono in larghissima parte anche da come mangiamo in quanto da quando sono vegano (circa 15 anni) ho fatto pochissimi incubi (li conto su una sola mano) e tutti estremamente soft.

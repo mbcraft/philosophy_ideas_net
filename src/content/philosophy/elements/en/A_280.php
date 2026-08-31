@@ -1,1 +1,1 @@
-A_280 - It is important to do at least 10 minutes of exercise a day, because even just that is more than enough to greatly improve your health.
+A_280 - It's important to do at least 5-10 minutes of exercise a day, even at home, because even that alone is more than enough to significantly improve your health.

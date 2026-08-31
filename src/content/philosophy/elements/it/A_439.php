@@ -1,1 +1,1 @@
-A_439 - &ldquo;La notte &egrave; fatta per dormire&rdquo; (detto popolare)
+A_439 - Utilizzando un sottovaso di quelli piccoli e alcuni sassi &egrave; possibile realizzare un semplice abbeveratoio per insetti a bassissimo costo e in modo molto facile. E' sufficiente aggiungere poi un centimetro d'acqua e il gioco &egrave; fatto. I sassi impediscono che l'insetto non abbia dove aggrapparsi se dovesse andare a contatto con l'acqua. Bisogna solo ricordarsi di rabboccarlo ogni 2-3 giorni.

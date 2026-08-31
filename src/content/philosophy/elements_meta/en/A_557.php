@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'It is important to remember that your lifestyle must be aligned based… (A_557)';
-$description = 'It is important to remember that your lifestyle must be aligned based on the color of your skin: if you have dark skin and stay indoors too much or do an…';
+$title_suffix = 'It\'s important to remember that your lifestyle should be aligned with… (A_557)';
+$description = 'It\'s important to remember that your lifestyle should be aligned with your skin color: your sun exposure, in terms of time, should also depend on your…';
 $keywords = 'philosophy, tips, friendship';

@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'As far as farming goes, I personally believe there is nothing wrong… (A_136)';
-$description = 'As far as farming goes, I personally believe there is nothing wrong with raising animals.';
+$title_suffix = 'As for animal farming, I personally believe there\'s nothing wrong… (A_136)';
+$description = 'As for animal farming, I personally believe there\'s nothing wrong with raising animals.';
 $keywords = 'philosophy, tips, friendship';

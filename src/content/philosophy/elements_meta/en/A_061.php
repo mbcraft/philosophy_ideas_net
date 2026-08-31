@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'I personally don\'t particularly enjoy masturbation, but everyone has… (A_061)';
-$description = 'I personally don\'t particularly enjoy masturbation, but everyone has their own feelings on this topic, and it\'s fine for each person to follow their own…';
+$title_suffix = 'Personally, I\'m not particularly fond of masturbation, but everyone… (A_061)';
+$description = 'Personally, I\'m not particularly fond of masturbation, but everyone has their own feelings on this topic, and it\'s best for everyone to follow their own…';
 $keywords = 'philosophy, tips, friendship';

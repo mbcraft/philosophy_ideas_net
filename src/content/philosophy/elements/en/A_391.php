@@ -1,1 +1,1 @@
-A_391 - The information I have shared through my website has value regardless of whether you can feel positively when you read it.
+A_391 - The information I've shared on my website has value regardless of whether you're positively moved by it. I can imagine that not everything will be clear and immediate for everyone, because what made sense to me has been translated into words. But that doesn't mean the meaning is always conveyed clearly, although that's what I hope.

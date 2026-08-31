@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Having observed statues or drawings or images in which there are… (H_010)';
-$description = 'Having observed statues or drawings or images in which there are human beings mixed with animals, as far as this box of philosophy is concerned, the…';
+$title_suffix = 'Having observed statues, drawings, or images featuring humans mixed… (H_010)';
+$description = 'Having observed statues, drawings, or images featuring humans mixed with animals (such as in Egyptian mythology), this philosophical framework remains the…';
 $keywords = 'philosophy, tips, friendship';

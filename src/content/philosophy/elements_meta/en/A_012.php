@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'As for the wool, I think it can be used, but the sheep should be… (A_012)';
-$description = 'As for the wool, I think it can be used, but the sheep should be sheared with razors with a built-in comb so that they are not shaved completely and are…';
+$title_suffix = 'As for wool, I think it can be used, but sheep should be sheared with… (A_012)';
+$description = 'As for wool, I think it can be used, but sheep should be sheared with razors with built-in combs so that they aren\'t completely shaved and don\'t get…';
 $keywords = 'philosophy, tips, friendship';

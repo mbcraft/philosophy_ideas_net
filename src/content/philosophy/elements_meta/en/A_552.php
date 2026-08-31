@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Sometimes for people, based on the work done by their parents, it can… (A_552)';
-$description = 'Sometimes for people, based on the work done by their parents, it can be difficult to carry out particular reasoning.';
+$title_suffix = 'Sometimes, depending on their parents\' jobs, it can be difficult for… (A_552)';
+$description = 'Sometimes, depending on their parents\' jobs, it can be difficult for people to make specific decisions.';
 $keywords = 'philosophy, tips, friendship';

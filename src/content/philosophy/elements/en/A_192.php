@@ -1,1 +1,1 @@
-A_192 - Caterpillars and snails can also be used as pets, in a small case. They are very cheap to maintain. 
+A_192 - For those who have a doorbell exposed to the sun, with a label printed with those special tools for embossed labels, I recommend placing clear tape over the printed part so that the sun does not fade the color over time.

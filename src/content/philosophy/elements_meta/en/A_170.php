@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'As it happens for icebergs that have a submerged part, this is the… (A_170)';
-$description = 'As it happens for icebergs that have a submerged part, this is the information that is available now for everyone.';
+$title_suffix = 'Like icebergs with a submerged portion, this is the information… (A_170)';
+$description = 'Like icebergs with a submerged portion, this is the information currently available.';
 $keywords = 'philosophy, tips, friendship';

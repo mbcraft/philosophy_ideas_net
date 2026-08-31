@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'For men who want to masturbate, I recommend making wild sperm mixes… (A_279)';
-$description = 'For men who want to masturbate, I recommend making wild sperm mixes even done together with friends, using photos of consenting women or live women to get…';
+$title_suffix = 'Personally, I believe physical activity is important for health, but… (A_279)';
+$description = 'Personally, I believe physical activity is important for health, but I personally advise against exercising in the summer if the weather is too hot.';
 $keywords = 'philosophy, tips, friendship';

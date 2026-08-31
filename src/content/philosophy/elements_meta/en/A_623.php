@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'It is important not to insult politicians and not to treat them as… (A_623)';
-$description = 'It is important not to insult politicians and not to treat them as targets for mud because hitting them means hitting all the citizens those people…';
+$title_suffix = 'It\'s important not to insult politicians or treat them as targets for… (A_623)';
+$description = 'It\'s important not to insult politicians or treat them as targets for mudslinging, because attacking them means attacking all the citizens they govern.';
 $keywords = 'philosophy, tips, friendship';

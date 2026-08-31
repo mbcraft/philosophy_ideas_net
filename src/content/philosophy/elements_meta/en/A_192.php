@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Caterpillars and snails can also be used as pets, in a small case… (A_192)';
-$description = 'Caterpillars and snails can also be used as pets, in a small case. They are very cheap to maintain.';
+$title_suffix = 'For those who have a doorbell exposed to the sun, with a label… (A_192)';
+$description = 'For those who have a doorbell exposed to the sun, with a label printed with those special tools for embossed labels, I recommend placing clear tape over…';
 $keywords = 'philosophy, tips, friendship';

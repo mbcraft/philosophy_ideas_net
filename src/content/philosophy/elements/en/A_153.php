@@ -1,1 +1,1 @@
-A_153 - As far as I know, trees give us dreams and nightmares. Sometimes they need to make adjustments to our minds, warn us, make checks, and so on. In any case we have no right to judge them.
+A_153 - As far as I know, what I've understood about dreams is that they depend to a large extent on how we eat, as since I've been vegan (about 15 years) I've had very few nightmares (I can count them on one hand) and they've all been extremely mild.

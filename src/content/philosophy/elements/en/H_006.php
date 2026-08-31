@@ -1,1 +1,1 @@
-H_006 - It is very likely that many of these concepts are particularly boring to read. They are only technically correct (within the limits of what I developed them) and I did not embroider on them any kind of poetic story or one that would inspire people emotionally.
+H_006 - Some of these concepts may be a bit boring to read. They're merely technically correct (to the extent I've developed them), and I haven't embroidered them into any kind of poetic or emotionally inspiring narrative. They're concise, too, because I love brevity and find it an excellent choice.

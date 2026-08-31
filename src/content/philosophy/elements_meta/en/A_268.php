@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'If you don\'t need it in home routers that allow you to use the… (A_268)';
-$description = 'If you don\'t need it in home routers that allow you to use the internet connection only via wireless waves and which in any case have “2.4 G” and “5 G”…';
+$title_suffix = 'If you don\'t need it on home routers that only allow wireless… (A_268)';
+$description = 'If you don\'t need it on home routers that only allow wireless internet access and that also support 2.4G and 5G, I recommend disabling the 5G frequency…';
 $keywords = 'philosophy, tips, friendship';

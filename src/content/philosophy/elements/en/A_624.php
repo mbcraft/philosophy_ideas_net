@@ -1,1 +1,1 @@
-A_624 - If you want to make an excellent tea, it is sufficient to squeeze the lemon and add some lemon peel flakes after making the infusion. To do this, of course, you need a lemon with peel of excellent quality.
+A_624 - Personally, I find it absurd that cars are sent to the landfill simply because hail has dented their bodywork. Even if they aren't perfect to look at, cars are used for transportation, so I think it's absurd not to use a vehicle just because its bodywork has dents. I find it truly senseless.

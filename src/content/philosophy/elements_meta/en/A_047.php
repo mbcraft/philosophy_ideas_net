@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'If in front of the computer you find that you cannot solve a problem… (A_047)';
-$description = 'If in front of the computer you find that you cannot solve a problem because your mind cannot understand well, then try to face the problem while you are…';
+$title_suffix = 'If you find yourself struggling to solve a problem while sitting in… (A_047)';
+$description = 'If you find yourself struggling to solve a problem while sitting in front of your computer because your mind can\'t quite grasp it, try tackling the…';
 $keywords = 'philosophy, tips, friendship';

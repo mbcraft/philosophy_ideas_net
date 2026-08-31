@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Basil pesto is a condiment typically paired with pasta loved by… (A_073)';
-$description = 'Basil pesto is a condiment typically paired with pasta loved by millions of people. But what almost no one knows is that basil is actually mildly toxic.';
+$title_suffix = 'Basil pesto is a classic pasta sauce loved by millions. What almost… (A_073)';
+$description = 'Basil pesto is a classic pasta sauce loved by millions. What almost no one knows, however, is that basil is actually slightly toxic.';
 $keywords = 'philosophy, tips, friendship';

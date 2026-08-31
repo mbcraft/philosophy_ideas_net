@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'What I define as “gaslighting” is the phenomenon that involves the… (A_271)';
-$description = 'What I define as “gaslighting” is the phenomenon that involves the production of volumes of methane in the intestine during digestion and which is…';
+$title_suffix = 'What I call "gaslighting" is the phenomenon that involves the… (A_271)';
+$description = 'What I call "gaslighting" is the phenomenon that involves the production of methane in the intestine during digestion, independent of the food ingested.';
 $keywords = 'philosophy, tips, friendship';

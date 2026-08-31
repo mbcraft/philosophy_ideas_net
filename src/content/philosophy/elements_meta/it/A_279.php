@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Per gli uomini che volessero masturbarsi, consiglio di fare mescoloni… (A_279)';
-$description = 'Per gli uomini che volessero masturbarsi, consiglio di fare mescoloni di sperma selvaggi anche fatti anche insieme agli amici, utilizzando foto di donne o…';
+$title_suffix = 'Personalmente credo che l\'attività fisica sia importante per la… (A_279)';
+$description = 'Personalmente credo che l\'attività fisica sia importante per la salute, ma personalmente sconsiglio di fare attività fisica in estate se il clima è troppo…';
 $keywords = 'filosofia, consigli, amicizia';

@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'In my spare time I have carried out experiments and research. This is… (H_002)';
-$description = 'In my spare time I have carried out experiments and research. This is what I have discovered over the years (roughly) ...';
+$title_suffix = 'In my spare time, I\'ve been experimenting and researching. This is… (H_002)';
+$description = 'In my spare time, I\'ve been experimenting and researching. This is what I\'ve discovered over the years (broadly speaking)...';
 $keywords = 'philosophy, tips, friendship';

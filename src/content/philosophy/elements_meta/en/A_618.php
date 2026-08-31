@@ -1,5 +1,5 @@
 <?php
 
-$title_suffix = 'Just as with running, it is possible to accelerate and decelerate… (A_618)';
-$description = 'Just as with running, it is possible to accelerate and decelerate, and the jumps that can be made also change based on the speed, the same concept also…';
+$title_suffix = 'Just as with running, you can accelerate and decelerate, and… (A_618)';
+$description = 'Just as with running, you can accelerate and decelerate, and depending on your speed, the leaps you can make also change, the same concept applies to our…';
 $keywords = 'philosophy, tips, friendship';
