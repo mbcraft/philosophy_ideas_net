@@ -23,6 +23,7 @@ function compute_token($token) {
 	if (strpos($token,"</span>")!==false) return null;
 	if (strpos($token,"class=")!==false) return null;
 	if (strpos($token,"align=")!==false) return null;
+	if (strpos($token,"alt=")!==false) return null;
 
 	$token = str_replace("nell'","",$token);
 	$token = str_replace("dell'","",$token);
@@ -42,17 +43,23 @@ function compute_token($token) {
 	$token = str_replace(":","",$token);
 	$token = str_replace("?","",$token);
 	$token = str_replace("\n","",$token);
+	$token = str_replace("\t","",$token);
 	$token = str_replace("-"," ",$token);
 	$token = str_replace("+"," ",$token);
 	$token = str_replace("&ldquo;"," ",$token);
 	$token = str_replace("&rdquo;"," ",$token);
 	$token = str_replace("["," ",$token);
 	$token = str_replace("]"," ",$token);
-	
+
 
 	$token = html_entity_decode($token);
 
+	$token = str_replace(";","",$token);
+	$token = str_replace("—"," ",$token);
+
 	$token = strtolower($token);
+
+	if (preg_match('/^[a-z]_[0-9]{3}$/',$token)) return null;
 
 	$digits = ['0','1','2','3','4','5','6','7','8','9'];
 

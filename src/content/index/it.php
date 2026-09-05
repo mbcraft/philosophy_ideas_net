@@ -53,7 +53,7 @@ require_once (DIR_PREFIX."include/site_variables.php");
 </div>
     <br />
     <div align="center">
-    <h4>Ultimo aggiornamento : 31 Agosto 2026</h4>
+    <h4>Ultimo aggiornamento : 05 Settembre 2026</h4>
     </div>
     <br />
     <br />

@@ -60,7 +60,7 @@ include_once("include/top_poem.php");
                         $word_list = explode(" ",$searched_words);
                         foreach ($current_result_list as $element) {
 
-                            $element_content = get_element_content($lang,$element);
+                            $element_content = html_entity_decode(get_element_content($lang,$element));
 
                             $start = 0;
                             $end = strlen($element_content)-1;
