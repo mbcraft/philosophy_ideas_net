@@ -1,0 +1,1 @@
+A_670 - Rather than setting out to study the religious theories of this or that religion, it is better to seek to purify one's heart and elevate one's spirit.

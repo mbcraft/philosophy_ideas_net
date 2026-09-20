@@ -1,0 +1,1 @@
+A_668 - A man who impregnates a woman and flees upon hearing the news does not demonstrate much virility. Women are particularly vulnerable during pregnancy; therefore, abandoning them at such a time is the worst thing a man can do to them. If a man wishes to have sexual relations with a woman (and vice versa), he should be fully aware of the possible consequences.

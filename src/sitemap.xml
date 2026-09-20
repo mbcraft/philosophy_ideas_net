@@ -3,13 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.philosophy-ideas.net/it/index.php</loc>
-		<lastmod>2026-08-22</lastmod>
+		<lastmod>2026-09-05</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.1</priority>
 	</url>
 	<url>
 		<loc>https://www.philosophy-ideas.net/en/index.php</loc>
-		<lastmod>2026-08-22</lastmod>
+		<lastmod>2026-09-05</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.1</priority>
 	</url>
@@ -7563,13 +7563,13 @@
 	</url>
 	<url>
 		<loc>https://www.philosophy-ideas.net/it/philosophy/A_615.php</loc>
-		<lastmod>2026-08-19</lastmod>
+		<lastmod>2026-09-20</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.1</priority>
 	</url>
 	<url>
 		<loc>https://www.philosophy-ideas.net/en/philosophy/A_615.php</loc>
-		<lastmod>2026-08-19</lastmod>
+		<lastmod>2026-09-20</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.1</priority>
 	</url>
@@ -8198,6 +8198,42 @@
 		<priority>0.1</priority>
 	</url>
 	<url>
+		<loc>https://www.philosophy-ideas.net/it/philosophy/A_668.php</loc>
+		<lastmod>2026-09-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
+		<loc>https://www.philosophy-ideas.net/en/philosophy/A_668.php</loc>
+		<lastmod>2026-09-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
+		<loc>https://www.philosophy-ideas.net/it/philosophy/A_669.php</loc>
+		<lastmod>2026-09-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
+		<loc>https://www.philosophy-ideas.net/en/philosophy/A_669.php</loc>
+		<lastmod>2026-09-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
+		<loc>https://www.philosophy-ideas.net/it/philosophy/A_670.php</loc>
+		<lastmod>2026-09-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
+		<loc>https://www.philosophy-ideas.net/en/philosophy/A_670.php</loc>
+		<lastmod>2026-09-20</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.1</priority>
+	</url>
+	<url>
 		<loc>https://www.philosophy-ideas.net/it/philosophy/B_000.php</loc>
 		<lastmod>2026-08-19</lastmod>
 		<changefreq>yearly</changefreq>
@@ -8607,13 +8643,13 @@
 	</url>
 	<url>
 		<loc>https://www.philosophy-ideas.net/it/philosophy/Z_002.php</loc>
-		<lastmod>2026-08-19</lastmod>
+		<lastmod>2026-09-05</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.1</priority>
 	</url>
 	<url>
 		<loc>https://www.philosophy-ideas.net/en/philosophy/Z_002.php</loc>
-		<lastmod>2026-08-19</lastmod>
+		<lastmod>2026-09-05</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.1</priority>
 	</url>
